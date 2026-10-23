@@ -3,5 +3,7 @@
   "timezone": "Asia/Seoul",
   "extra_words": 16,
   "sentences_per_focus_word": 4,
-  "sentences_per_companion_word": 2
+  "sentences_per_companion_word": 2,
+  "daily_unique_words": 100,
+  "daily_varied_sentences": 55
 }
