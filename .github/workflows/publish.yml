@@ -29,7 +29,7 @@ jobs:
       - name: Test RSS generation and learning schedule
         run: python -m unittest discover -s tests -v
       - name: Generate today's RSS and learning page
-        run: python generate.py
+        run: python play_v5.py
       - name: Save the daily generated content back to this repository
         # Adds real repository commits on weekdays. Helps avoid long inactivity,
         # but scheduled actions can still be disabled/delayed by GitHub policy.
