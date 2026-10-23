@@ -1,0 +1,60 @@
+name: Publish Japanese word-and-sentence RSS
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # 07:17 Mon-Fri in Korea (22:17 Sun-Thu in UTC).
+    # Non-round minutes reduce congestion, but GitHub may delay/drop runs.
+    - cron: '17 22 * * 0-4'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: japanese-play-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test RSS generation and learning schedule
+        run: python -m unittest discover -s tests -v
+      - name: Generate today's RSS and learning page
+        run: python generate.py
+      - name: Save the daily generated content back to this repository
+        # Adds real repository commits on weekdays. Helps avoid long inactivity,
+        # but scheduled actions can still be disabled/delayed by GitHub policy.
+        if: github.event_name == 'schedule'
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/rss.xml docs/rss-words.xml docs/rss-sentences.xml docs/index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update beginner Japanese word and sentence RSS"
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish RSS to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
