@@ -64,13 +64,23 @@ def balanced_words(day: int, target: int = 100) -> list[str]:
     rng.shuffle(remainder)
     unique_extend(selected, remainder, limit=max(0, target - len(selected)))
     selected = selected[:target]
-    rng.shuffle(selected)
 
-    # Mix kana rather than showing 40 consecutive loanwords then 40 hiragana words.
-    hira = [w for w in selected if VOCABULARY[w]["script"] == "hiragana"]
-    kata = [w for w in selected if VOCABULARY[w]["script"] != "hiragana"]
-    if min(len(hira), len(kata)) < 30:
-        raise ValueError("Poor hiragana/katakana balance")
+    # Guarantee both scripts every day, even on unusually katakana-heavy topics.
+    # Replace a few surplus words with previously unseen words of the rarer script.
+    for preferred in ("hiragana", "katakana"):
+        is_preferred = lambda w: (
+            ("hiragana" if VOCABULARY[w]["script"] == "hiragana" else "katakana")
+            == preferred
+        )
+        deficit = max(0, min(35, target // 3) - sum(is_preferred(w) for w in selected))
+        if deficit:
+            available = [w for w in remainder if is_preferred(w) and w not in selected]
+            donors = [i for i, w in enumerate(selected) if not is_preferred(w)]
+            if len(available) < deficit or len(donors) < deficit:
+                raise ValueError("Insufficient balanced vocabulary pool")
+            for replacement, new_word in zip(donors[:deficit], available[:deficit]):
+                selected[replacement] = new_word
+    rng.shuffle(selected)
     return selected
 
 def varied_scenes(day: int, target: int = 55) -> list[dict]:
