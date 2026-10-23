@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>일본어 놀이터 · 그림 단어에서 생활 문장까지 / 단어만</title>
+    <link>https://example.org/jp-kana-ticker/</link>
+    <description>1일차 · 🍎 과일 가게 + 생활 문장 | 단어 36개, 문장 94개 | 평일마다 변경</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 21 Oct 2026 22:17:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title>🍌 バナナ (바나나) · 바나나</title>
+      <link>https://example.org/jp-kana-ticker/#item-1</link>
+      <guid isPermaLink="false">jpplay:v4:1:1:バナナ</guid>
+      <description>バナナ / 바나나 / 바나나</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍎 りんご (링고) · 사과</title>
+      <link>https://example.org/jp-kana-ticker/#item-10</link>
+      <guid isPermaLink="false">jpplay:v4:1:10:りんご</guid>
+      <description>りんご / 링고 / 사과</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍈 メロン (메론) · 멜론</title>
+      <link>https://example.org/jp-kana-ticker/#item-14</link>
+      <guid isPermaLink="false">jpplay:v4:1:14:メロン</guid>
+      <description>メロン / 메론 / 멜론</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 みかん (미칸) · 귤</title>
+      <link>https://example.org/jp-kana-ticker/#item-18</link>
+      <guid isPermaLink="false">jpplay:v4:1:18:みかん</guid>
+      <description>みかん / 미칸 / 귤</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍋 レモン (레몬) · 레몬</title>
+      <link>https://example.org/jp-kana-ticker/#item-22</link>
+      <guid isPermaLink="false">jpplay:v4:1:22:レモン</guid>
+      <description>レモン / 레몬 / 레몬</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍓 いちご (이치고) · 딸기</title>
+      <link>https://example.org/jp-kana-ticker/#item-26</link>
+      <guid isPermaLink="false">jpplay:v4:1:26:いちご</guid>
+      <description>いちご / 이치고 / 딸기</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 オレンジ (오렌지) · 오렌지</title>
+      <link>https://example.org/jp-kana-ticker/#item-35</link>
+      <guid isPermaLink="false">jpplay:v4:1:35:オレンジ</guid>
+      <description>オレンジ / 오렌지 / 오렌지</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍑 もも (모모) · 복숭아</title>
+      <link>https://example.org/jp-kana-ticker/#item-39</link>
+      <guid isPermaLink="false">jpplay:v4:1:39:もも</guid>
+      <description>もも / 모모 / 복숭아</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥝 キウイ (키우이) · 키위</title>
+      <link>https://example.org/jp-kana-ticker/#item-43</link>
+      <guid isPermaLink="false">jpplay:v4:1:43:キウイ</guid>
+      <description>キウイ / 키우이 / 키위</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍇 ぶどう (부도-) · 포도</title>
+      <link>https://example.org/jp-kana-ticker/#item-47</link>
+      <guid isPermaLink="false">jpplay:v4:1:47:ぶどう</guid>
+      <description>ぶどう / 부도- / 포도</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐼 パンダ (판다) · 판다</title>
+      <link>https://example.org/jp-kana-ticker/#item-51</link>
+      <guid isPermaLink="false">jpplay:v4:1:51:パンダ</guid>
+      <description>パンダ / 판다 / 판다</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐱 ねこ (네코) · 고양이</title>
+      <link>https://example.org/jp-kana-ticker/#item-60</link>
+      <guid isPermaLink="false">jpplay:v4:1:60:ねこ</guid>
+      <description>ねこ / 네코 / 고양이</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐨 コアラ (코아라) · 코알라</title>
+      <link>https://example.org/jp-kana-ticker/#item-64</link>
+      <guid isPermaLink="false">jpplay:v4:1:64:コアラ</guid>
+      <description>コアラ / 코아라 / 코알라</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐶 いぬ (이누) · 개</title>
+      <link>https://example.org/jp-kana-ticker/#item-68</link>
+      <guid isPermaLink="false">jpplay:v4:1:68:いぬ</guid>
+      <description>いぬ / 이누 / 개</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦁 ライオン (라이온) · 사자</title>
+      <link>https://example.org/jp-kana-ticker/#item-71</link>
+      <guid isPermaLink="false">jpplay:v4:1:71:ライオン</guid>
+      <description>ライオン / 라이온 / 사자</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐰 うさぎ (우사기) · 토끼</title>
+      <link>https://example.org/jp-kana-ticker/#item-75</link>
+      <guid isPermaLink="false">jpplay:v4:1:75:うさぎ</guid>
+      <description>うさぎ / 우사기 / 토끼</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐧 ペンギン (펭긴) · 펭귄</title>
+      <link>https://example.org/jp-kana-ticker/#item-81</link>
+      <guid isPermaLink="false">jpplay:v4:1:81:ペンギン</guid>
+      <description>ペンギン / 펭긴 / 펭귄</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐻 くま (쿠마) · 곰</title>
+      <link>https://example.org/jp-kana-ticker/#item-83</link>
+      <guid isPermaLink="false">jpplay:v4:1:83:くま</guid>
+      <description>くま / 쿠마 / 곰</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦒 キリン (키린) · 기린</title>
+      <link>https://example.org/jp-kana-ticker/#item-85</link>
+      <guid isPermaLink="false">jpplay:v4:1:85:キリン</guid>
+      <description>キリン / 키린 / 기린</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐦 とり (토리) · 새</title>
+      <link>https://example.org/jp-kana-ticker/#item-88</link>
+      <guid isPermaLink="false">jpplay:v4:1:88:とり</guid>
+      <description>とり / 토리 / 새</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍦 アイス (아이스) · 아이스크림</title>
+      <link>https://example.org/jp-kana-ticker/#item-91</link>
+      <guid isPermaLink="false">jpplay:v4:1:91:アイス</guid>
+      <description>アイス / 아이스 / 아이스크림</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥚 たまご (타마고) · 달걀</title>
+      <link>https://example.org/jp-kana-ticker/#item-94</link>
+      <guid isPermaLink="false">jpplay:v4:1:94:たまご</guid>
+      <description>たまご / 타마고 / 달걀</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍰 ケーキ (케-키) · 케이크</title>
+      <link>https://example.org/jp-kana-ticker/#item-95</link>
+      <guid isPermaLink="false">jpplay:v4:1:95:ケーキ</guid>
+      <description>ケーキ / 케-키 / 케이크</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍚 ごはん (고항) · 밥</title>
+      <link>https://example.org/jp-kana-ticker/#item-97</link>
+      <guid isPermaLink="false">jpplay:v4:1:97:ごはん</guid>
+      <description>ごはん / 고항 / 밥</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍞 パン (팡) · 빵</title>
+      <link>https://example.org/jp-kana-ticker/#item-99</link>
+      <guid isPermaLink="false">jpplay:v4:1:99:パン</guid>
+      <description>パン / 팡 / 빵</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍙 おにぎり (오니기리) · 주먹밥</title>
+      <link>https://example.org/jp-kana-ticker/#item-101</link>
+      <guid isPermaLink="false">jpplay:v4:1:101:おにぎり</guid>
+      <description>おにぎり / 오니기리 / 주먹밥</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧀 チーズ (치-즈) · 치즈</title>
+      <link>https://example.org/jp-kana-ticker/#item-104</link>
+      <guid isPermaLink="false">jpplay:v4:1:104:チーズ</guid>
+      <description>チーズ / 치-즈 / 치즈</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>💧 みず (미즈) · 물</title>
+      <link>https://example.org/jp-kana-ticker/#item-105</link>
+      <guid isPermaLink="false">jpplay:v4:1:105:みず</guid>
+      <description>みず / 미즈 / 물</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧃 ジュース (주-스) · 주스</title>
+      <link>https://example.org/jp-kana-ticker/#item-107</link>
+      <guid isPermaLink="false">jpplay:v4:1:107:ジュース</guid>
+      <description>ジュース / 주-스 / 주스</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍵 おちゃ (오차) · 차</title>
+      <link>https://example.org/jp-kana-ticker/#item-109</link>
+      <guid isPermaLink="false">jpplay:v4:1:109:おちゃ</guid>
+      <description>おちゃ / 오차 / 차</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>📺 テレビ (테레비) · 텔레비전</title>
+      <link>https://example.org/jp-kana-ticker/#item-111</link>
+      <guid isPermaLink="false">jpplay:v4:1:111:テレビ</guid>
+      <description>テレビ / 테레비 / 텔레비전</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏠 いえ (이에) · 집</title>
+      <link>https://example.org/jp-kana-ticker/#item-114</link>
+      <guid isPermaLink="false">jpplay:v4:1:114:いえ</guid>
+      <description>いえ / 이에 / 집</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚪 ドア (도아) · 문</title>
+      <link>https://example.org/jp-kana-ticker/#item-115</link>
+      <guid isPermaLink="false">jpplay:v4:1:115:ドア</guid>
+      <description>ドア / 도아 / 문</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛏️ へや (헤야) · 방</title>
+      <link>https://example.org/jp-kana-ticker/#item-117</link>
+      <guid isPermaLink="false">jpplay:v4:1:117:へや</guid>
+      <description>へや / 헤야 / 방</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛏️ ベッド (벳도) · 침대</title>
+      <link>https://example.org/jp-kana-ticker/#item-119</link>
+      <guid isPermaLink="false">jpplay:v4:1:119:ベッド</guid>
+      <description>ベッド / 벳도 / 침대</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪟 まど (마도) · 창문</title>
+      <link>https://example.org/jp-kana-ticker/#item-121</link>
+      <guid isPermaLink="false">jpplay:v4:1:121:まど</guid>
+      <description>まど / 마도 / 창문</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:24 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

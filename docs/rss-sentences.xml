@@ -1,0 +1,669 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>일본어 놀이터 · 그림 단어에서 생활 문장까지 / 문장만</title>
+    <link>https://example.org/jp-kana-ticker/</link>
+    <description>1일차 · 🍎 과일 가게 + 생활 문장 | 단어 36개, 문장 94개 | 평일마다 변경</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 21 Oct 2026 22:17:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title>🍌 これはバナナです (코레와 바나나데스) · 이것은 바나나예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-2</link>
+      <guid isPermaLink="false">jpplay:v4:1:2:これはバナナです</guid>
+      <description>これはバナナです / 코레와 바나나데스 / 이것은 바나나예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐼 これはパンダです (코레와 판다데스) · 이것은 판다예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-3</link>
+      <guid isPermaLink="false">jpplay:v4:1:3:これはパンダです</guid>
+      <description>これはパンダです / 코레와 판다데스 / 이것은 판다예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🍦 アイスをください (아이스오 쿠다사이) · 아이스크림 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-4</link>
+      <guid isPermaLink="false">jpplay:v4:1:4:アイスをください</guid>
+      <description>アイスをください / 아이스오 쿠다사이 / 아이스크림 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗣️ これはりんごですか？ (코레와 링고데스카?) · 이것은 사과인가요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-5</link>
+      <guid isPermaLink="false">jpplay:v4:1:5:これはりんごですか？</guid>
+      <description>これはりんごですか？ / 코레와 링고데스카? / 이것은 사과인가요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 バナナがすきです (바나나가 스키데스) · 바나나를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-6</link>
+      <guid isPermaLink="false">jpplay:v4:1:6:バナナがすきです</guid>
+      <description>バナナがすきです / 바나나가 스키데스 / 바나나를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐼 パンダがすきです (판다가 스키데스) · 판다를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-7</link>
+      <guid isPermaLink="false">jpplay:v4:1:7:パンダがすきです</guid>
+      <description>パンダがすきです / 판다가 스키데스 / 판다를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🥚 たまごをください (타마고오 쿠다사이) · 달걀 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-8</link>
+      <guid isPermaLink="false">jpplay:v4:1:8:たまごをください</guid>
+      <description>たまごをください / 타마고오 쿠다사이 / 달걀 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 はい、りんごです (하이, 링고데스) · 네, 사과예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-9</link>
+      <guid isPermaLink="false">jpplay:v4:1:9:はい、りんごです</guid>
+      <description>はい、りんごです / 하이, 링고데스 / 네, 사과예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐱 これはねこです (코레와 네코데스) · 이것은 고양이예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-11</link>
+      <guid isPermaLink="false">jpplay:v4:1:11:これはねこです</guid>
+      <description>これはねこです / 코레와 네코데스 / 이것은 고양이예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🍰 ケーキをください (케-키오 쿠다사이) · 케이크 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-12</link>
+      <guid isPermaLink="false">jpplay:v4:1:12:ケーキをください</guid>
+      <description>ケーキをください / 케-키오 쿠다사이 / 케이크 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗣️ これはメロンですか？ (코레와 메론데스카?) · 이것은 멜론인가요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-13</link>
+      <guid isPermaLink="false">jpplay:v4:1:13:これはメロンですか？</guid>
+      <description>これはメロンですか？ / 코레와 메론데스카? / 이것은 멜론인가요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 バナナをたべたいです (바나나오 타베타이데스) · 바나나를 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-15</link>
+      <guid isPermaLink="false">jpplay:v4:1:15:バナナをたべたいです</guid>
+      <description>バナナをたべたいです / 바나나오 타베타이데스 / 바나나를 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🍚 ごはんをください (고항오 쿠다사이) · 밥 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-16</link>
+      <guid isPermaLink="false">jpplay:v4:1:16:ごはんをください</guid>
+      <description>ごはんをください / 고항오 쿠다사이 / 밥 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 はい、メロンです (하이, 메론데스) · 네, 멜론예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-17</link>
+      <guid isPermaLink="false">jpplay:v4:1:17:はい、メロンです</guid>
+      <description>はい、メロンです / 하이, 메론데스 / 네, 멜론예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 バナナをください (바나나오 쿠다사이) · 바나나 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-19</link>
+      <guid isPermaLink="false">jpplay:v4:1:19:バナナをください</guid>
+      <description>バナナをください / 바나나오 쿠다사이 / 바나나 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐱 ねこがすきです (네코가 스키데스) · 고양이를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-20</link>
+      <guid isPermaLink="false">jpplay:v4:1:20:ねこがすきです</guid>
+      <description>ねこがすきです / 네코가 스키데스 / 고양이를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗣️ これはキウイですか？ (코레와 키우이데스카?) · 이것은 키위인가요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-21</link>
+      <guid isPermaLink="false">jpplay:v4:1:21:これはキウイですか？</guid>
+      <description>これはキウイですか？ / 코레와 키우이데스카? / 이것은 키위인가요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍎 これはりんごです (코레와 링고데스) · 이것은 사과예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-23</link>
+      <guid isPermaLink="false">jpplay:v4:1:23:これはりんごです</guid>
+      <description>これはりんごです / 코레와 링고데스 / 이것은 사과예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐨 これはコアラです (코레와 코아라데스) · 이것은 코알라예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-24</link>
+      <guid isPermaLink="false">jpplay:v4:1:24:これはコアラです</guid>
+      <description>これはコアラです / 코레와 코아라데스 / 이것은 코알라예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🍞 パンをください (팡오 쿠다사이) · 빵 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-25</link>
+      <guid isPermaLink="false">jpplay:v4:1:25:パンをください</guid>
+      <description>パンをください / 팡오 쿠다사이 / 빵 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍎 りんごがすきです (링고가 스키데스) · 사과를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-27</link>
+      <guid isPermaLink="false">jpplay:v4:1:27:りんごがすきです</guid>
+      <description>りんごがすきです / 링고가 스키데스 / 사과를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐨 コアラがすきです (코아라가 스키데스) · 코알라를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-28</link>
+      <guid isPermaLink="false">jpplay:v4:1:28:コアラがすきです</guid>
+      <description>コアラがすきです / 코아라가 스키데스 / 코알라를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🍙 おにぎりをください (오니기리오 쿠다사이) · 주먹밥 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-29</link>
+      <guid isPermaLink="false">jpplay:v4:1:29:おにぎりをください</guid>
+      <description>おにぎりをください / 오니기리오 쿠다사이 / 주먹밥 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 はい、キウイです (하이, 키우이데스) · 네, 키위예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-30</link>
+      <guid isPermaLink="false">jpplay:v4:1:30:はい、キウイです</guid>
+      <description>はい、キウイです / 하이, 키우이데스 / 네, 키위예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍎 りんごをたべたいです (링고오 타베타이데스) · 사과를 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-31</link>
+      <guid isPermaLink="false">jpplay:v4:1:31:りんごをたべたいです</guid>
+      <description>りんごをたべたいです / 링고오 타베타이데스 / 사과를 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐶 これはいぬです (코레와 이누데스) · 이것은 개예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-32</link>
+      <guid isPermaLink="false">jpplay:v4:1:32:これはいぬです</guid>
+      <description>これはいぬです / 코레와 이누데스 / 이것은 개예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🧀 チーズをください (치-즈오 쿠다사이) · 치즈 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-33</link>
+      <guid isPermaLink="false">jpplay:v4:1:33:チーズをください</guid>
+      <description>チーズをください / 치-즈오 쿠다사이 / 치즈 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗣️ これはレモンですか？ (코레와 레몬데스카?) · 이것은 레몬인가요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-34</link>
+      <guid isPermaLink="false">jpplay:v4:1:34:これはレモンですか？</guid>
+      <description>これはレモンですか？ / 코레와 레몬데스카? / 이것은 레몬인가요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐶 いぬがすきです (이누가 스키데스) · 개를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-36</link>
+      <guid isPermaLink="false">jpplay:v4:1:36:いぬがすきです</guid>
+      <description>いぬがすきです / 이누가 스키데스 / 개를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 💧 みずをください (미즈오 쿠다사이) · 물 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-37</link>
+      <guid isPermaLink="false">jpplay:v4:1:37:みずをください</guid>
+      <description>みずをください / 미즈오 쿠다사이 / 물 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>💬 はい、レモンです (하이, 레몬데스) · 네, 레몬예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-38</link>
+      <guid isPermaLink="false">jpplay:v4:1:38:はい、レモンです</guid>
+      <description>はい、レモンです / 하이, 레몬데스 / 네, 레몬예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍎 りんごをください (링고오 쿠다사이) · 사과 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-40</link>
+      <guid isPermaLink="false">jpplay:v4:1:40:りんごをください</guid>
+      <description>りんごをください / 링고오 쿠다사이 / 사과 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🧃 ジュースをください (주-스오 쿠다사이) · 주스 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-41</link>
+      <guid isPermaLink="false">jpplay:v4:1:41:ジュースをください</guid>
+      <description>ジュースをください / 주-스오 쿠다사이 / 주스 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 バナナをたべたい？ (바나나오 타베타이?) · 바나나 먹고 싶어?</title>
+      <link>https://example.org/jp-kana-ticker/#item-42</link>
+      <guid isPermaLink="false">jpplay:v4:1:42:バナナをたべたい？</guid>
+      <description>バナナをたべたい？ / 바나나오 타베타이? / 바나나 먹고 싶어?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍈 これはメロンです (코레와 메론데스) · 이것은 멜론예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-44</link>
+      <guid isPermaLink="false">jpplay:v4:1:44:これはメロンです</guid>
+      <description>これはメロンです / 코레와 메론데스 / 이것은 멜론예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦁 これはライオンです (코레와 라이온데스) · 이것은 사자예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-45</link>
+      <guid isPermaLink="false">jpplay:v4:1:45:これはライオンです</guid>
+      <description>これはライオンです / 코레와 라이온데스 / 이것은 사자예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 うん、たべたい！ (응, 타베타이!) · 응, 먹고 싶어!</title>
+      <link>https://example.org/jp-kana-ticker/#item-46</link>
+      <guid isPermaLink="false">jpplay:v4:1:46:うん、たべたい！</guid>
+      <description>うん、たべたい！ / 응, 타베타이! / 응, 먹고 싶어!</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍈 メロンがすきです (메론가 스키데스) · 멜론을 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-48</link>
+      <guid isPermaLink="false">jpplay:v4:1:48:メロンがすきです</guid>
+      <description>メロンがすきです / 메론가 스키데스 / 멜론을 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦁 ライオンがすきです (라이온가 스키데스) · 사자를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-49</link>
+      <guid isPermaLink="false">jpplay:v4:1:49:ライオンがすきです</guid>
+      <description>ライオンがすきです / 라이온가 스키데스 / 사자를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🍵 おちゃをください (오차오 쿠다사이) · 차 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-50</link>
+      <guid isPermaLink="false">jpplay:v4:1:50:おちゃをください</guid>
+      <description>おちゃをください / 오차오 쿠다사이 / 차 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍈 メロンをたべたいです (메론오 타베타이데스) · 멜론을 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-52</link>
+      <guid isPermaLink="false">jpplay:v4:1:52:メロンをたべたいです</guid>
+      <description>メロンをたべたいです / 메론오 타베타이데스 / 멜론을 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐰 これはうさぎです (코레와 우사기데스) · 이것은 토끼예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-53</link>
+      <guid isPermaLink="false">jpplay:v4:1:53:これはうさぎです</guid>
+      <description>これはうさぎです / 코레와 우사기데스 / 이것은 토끼예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 📺 テレビはどこですか？ (테레비와 도코데스카?) · 텔레비전이 어디에 있나요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-54</link>
+      <guid isPermaLink="false">jpplay:v4:1:54:テレビはどこですか？</guid>
+      <description>テレビはどこですか？ / 테레비와 도코데스카? / 텔레비전이 어디에 있나요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 これはバナナ？ (코레와 바나나?) · 이건 바나나야?</title>
+      <link>https://example.org/jp-kana-ticker/#item-55</link>
+      <guid isPermaLink="false">jpplay:v4:1:55:これはバナナ？</guid>
+      <description>これはバナナ？ / 코레와 바나나? / 이건 바나나야?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍈 メロンをください (메론오 쿠다사이) · 멜론 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-56</link>
+      <guid isPermaLink="false">jpplay:v4:1:56:メロンをください</guid>
+      <description>メロンをください / 메론오 쿠다사이 / 멜론 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐰 うさぎがすきです (우사기가 스키데스) · 토끼를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-57</link>
+      <guid isPermaLink="false">jpplay:v4:1:57:うさぎがすきです</guid>
+      <description>うさぎがすきです / 우사기가 스키데스 / 토끼를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🏠 いえはどこですか？ (이에와 도코데스카?) · 집이 어디에 있나요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-58</link>
+      <guid isPermaLink="false">jpplay:v4:1:58:いえはどこですか？</guid>
+      <description>いえはどこですか？ / 이에와 도코데스카? / 집이 어디에 있나요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 うん、バナナだよ (응, 바나나다요) · 응, 바나나야</title>
+      <link>https://example.org/jp-kana-ticker/#item-59</link>
+      <guid isPermaLink="false">jpplay:v4:1:59:うん、バナナだよ</guid>
+      <description>うん、バナナだよ / 응, 바나나다요 / 응, 바나나야</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐧 これはペンギンです (코레와 펭긴데스) · 이것은 펭귄예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-61</link>
+      <guid isPermaLink="false">jpplay:v4:1:61:これはペンギンです</guid>
+      <description>これはペンギンです / 코레와 펭긴데스 / 이것은 펭귄예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🚪 ドアはどこですか？ (도아와 도코데스카?) · 문이 어디에 있나요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-62</link>
+      <guid isPermaLink="false">jpplay:v4:1:62:ドアはどこですか？</guid>
+      <description>ドアはどこですか？ / 도아와 도코데스카? / 문이 어디에 있나요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 バナナがすき？ (바나나가 스키?) · 바나나 좋아해?</title>
+      <link>https://example.org/jp-kana-ticker/#item-63</link>
+      <guid isPermaLink="false">jpplay:v4:1:63:バナナがすき？</guid>
+      <description>バナナがすき？ / 바나나가 스키? / 바나나 좋아해?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 これはみかんです (코레와 미칸데스) · 이것은 귤예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-65</link>
+      <guid isPermaLink="false">jpplay:v4:1:65:これはみかんです</guid>
+      <description>これはみかんです / 코레와 미칸데스 / 이것은 귤예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🛏️ へやはどこですか？ (헤야와 도코데스카?) · 방이 어디에 있나요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-66</link>
+      <guid isPermaLink="false">jpplay:v4:1:66:へやはどこですか？</guid>
+      <description>へやはどこですか？ / 헤야와 도코데스카? / 방이 어디에 있나요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 うん、だいすき！ (응, 다이스키!) · 응, 정말 좋아!</title>
+      <link>https://example.org/jp-kana-ticker/#item-67</link>
+      <guid isPermaLink="false">jpplay:v4:1:67:うん、だいすき！</guid>
+      <description>うん、だいすき！ / 응, 다이스키! / 응, 정말 좋아!</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 みかんがすきです (미칸가 스키데스) · 귤을 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-69</link>
+      <guid isPermaLink="false">jpplay:v4:1:69:みかんがすきです</guid>
+      <description>みかんがすきです / 미칸가 스키데스 / 귤을 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐧 ペンギンがすきです (펭긴가 스키데스) · 펭귄을 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-70</link>
+      <guid isPermaLink="false">jpplay:v4:1:70:ペンギンがすきです</guid>
+      <description>ペンギンがすきです / 펭긴가 스키데스 / 펭귄을 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 みかんをたべたいです (미칸오 타베타이데스) · 귤을 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-72</link>
+      <guid isPermaLink="false">jpplay:v4:1:72:みかんをたべたいです</guid>
+      <description>みかんをたべたいです / 미칸오 타베타이데스 / 귤을 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐻 これはくまです (코레와 쿠마데스) · 이것은 곰예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-73</link>
+      <guid isPermaLink="false">jpplay:v4:1:73:これはくまです</guid>
+      <description>これはくまです / 코레와 쿠마데스 / 이것은 곰예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🛏️ ベッドはどこですか？ (벳도와 도코데스카?) · 침대가 어디에 있나요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-74</link>
+      <guid isPermaLink="false">jpplay:v4:1:74:ベッドはどこですか？</guid>
+      <description>ベッドはどこですか？ / 벳도와 도코데스카? / 침대가 어디에 있나요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 みかんをください (미칸오 쿠다사이) · 귤 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-76</link>
+      <guid isPermaLink="false">jpplay:v4:1:76:みかんをください</guid>
+      <description>みかんをください / 미칸오 쿠다사이 / 귤 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐻 くまがすきです (쿠마가 스키데스) · 곰을 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-77</link>
+      <guid isPermaLink="false">jpplay:v4:1:77:くまがすきです</guid>
+      <description>くまがすきです / 쿠마가 스키데스 / 곰을 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔁 🪟 まどはどこですか？ (마도와 도코데스카?) · 창문이 어디에 있나요?</title>
+      <link>https://example.org/jp-kana-ticker/#item-78</link>
+      <guid isPermaLink="false">jpplay:v4:1:78:まどはどこですか？</guid>
+      <description>まどはどこですか？ / 마도와 도코데스카? / 창문이 어디에 있나요?</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍋 これはレモンです (코레와 레몬데스) · 이것은 레몬예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-79</link>
+      <guid isPermaLink="false">jpplay:v4:1:79:これはレモンです</guid>
+      <description>これはレモンです / 코레와 레몬데스 / 이것은 레몬예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦒 これはキリンです (코레와 키린데스) · 이것은 기린예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-80</link>
+      <guid isPermaLink="false">jpplay:v4:1:80:これはキリンです</guid>
+      <description>これはキリンです / 코레와 키린데스 / 이것은 기린예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦒 キリンがすきです (키린가 스키데스) · 기린을 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-82</link>
+      <guid isPermaLink="false">jpplay:v4:1:82:キリンがすきです</guid>
+      <description>キリンがすきです / 키린가 스키데스 / 기린을 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍋 レモンがすきです (레몬가 스키데스) · 레몬을 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-84</link>
+      <guid isPermaLink="false">jpplay:v4:1:84:レモンがすきです</guid>
+      <description>レモンがすきです / 레몬가 스키데스 / 레몬을 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍋 レモンをたべたいです (레몬오 타베타이데스) · 레몬을 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-86</link>
+      <guid isPermaLink="false">jpplay:v4:1:86:レモンをたべたいです</guid>
+      <description>レモンをたべたいです / 레몬오 타베타이데스 / 레몬을 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐦 これはとりです (코레와 토리데스) · 이것은 새예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-87</link>
+      <guid isPermaLink="false">jpplay:v4:1:87:これはとりです</guid>
+      <description>これはとりです / 코레와 토리데스 / 이것은 새예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍋 レモンをください (레몬오 쿠다사이) · 레몬 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-89</link>
+      <guid isPermaLink="false">jpplay:v4:1:89:レモンをください</guid>
+      <description>レモンをください / 레몬오 쿠다사이 / 레몬 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐦 とりがすきです (토리가 스키데스) · 새를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-90</link>
+      <guid isPermaLink="false">jpplay:v4:1:90:とりがすきです</guid>
+      <description>とりがすきです / 토리가 스키데스 / 새를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍓 これはいちごです (코레와 이치고데스) · 이것은 딸기예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-92</link>
+      <guid isPermaLink="false">jpplay:v4:1:92:これはいちごです</guid>
+      <description>これはいちごです / 코레와 이치고데스 / 이것은 딸기예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍓 いちごがすきです (이치고가 스키데스) · 딸기를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-93</link>
+      <guid isPermaLink="false">jpplay:v4:1:93:いちごがすきです</guid>
+      <description>いちごがすきです / 이치고가 스키데스 / 딸기를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍓 いちごをたべたいです (이치고오 타베타이데스) · 딸기를 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-96</link>
+      <guid isPermaLink="false">jpplay:v4:1:96:いちごをたべたいです</guid>
+      <description>いちごをたべたいです / 이치고오 타베타이데스 / 딸기를 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍓 いちごをください (이치고오 쿠다사이) · 딸기 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-98</link>
+      <guid isPermaLink="false">jpplay:v4:1:98:いちごをください</guid>
+      <description>いちごをください / 이치고오 쿠다사이 / 딸기 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 これはオレンジです (코레와 오렌지데스) · 이것은 오렌지예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-100</link>
+      <guid isPermaLink="false">jpplay:v4:1:100:これはオレンジです</guid>
+      <description>これはオレンジです / 코레와 오렌지데스 / 이것은 오렌지예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 オレンジがすきです (오렌지가 스키데스) · 오렌지를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-102</link>
+      <guid isPermaLink="false">jpplay:v4:1:102:オレンジがすきです</guid>
+      <description>オレンジがすきです / 오렌지가 스키데스 / 오렌지를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 オレンジをたべたいです (오렌지오 타베타이데스) · 오렌지를 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-103</link>
+      <guid isPermaLink="false">jpplay:v4:1:103:オレンジをたべたいです</guid>
+      <description>オレンジをたべたいです / 오렌지오 타베타이데스 / 오렌지를 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍊 オレンジをください (오렌지오 쿠다사이) · 오렌지 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-106</link>
+      <guid isPermaLink="false">jpplay:v4:1:106:オレンジをください</guid>
+      <description>オレンジをください / 오렌지오 쿠다사이 / 오렌지 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍑 これはももです (코레와 모모데스) · 이것은 복숭아예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-108</link>
+      <guid isPermaLink="false">jpplay:v4:1:108:これはももです</guid>
+      <description>これはももです / 코레와 모모데스 / 이것은 복숭아예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍑 ももがすきです (모모가 스키데스) · 복숭아를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-110</link>
+      <guid isPermaLink="false">jpplay:v4:1:110:ももがすきです</guid>
+      <description>ももがすきです / 모모가 스키데스 / 복숭아를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍑 ももをたべたいです (모모오 타베타이데스) · 복숭아를 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-112</link>
+      <guid isPermaLink="false">jpplay:v4:1:112:ももをたべたいです</guid>
+      <description>ももをたべたいです / 모모오 타베타이데스 / 복숭아를 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍑 ももをください (모모오 쿠다사이) · 복숭아 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-113</link>
+      <guid isPermaLink="false">jpplay:v4:1:113:ももをください</guid>
+      <description>ももをください / 모모오 쿠다사이 / 복숭아 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥝 これはキウイです (코레와 키우이데스) · 이것은 키위예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-116</link>
+      <guid isPermaLink="false">jpplay:v4:1:116:これはキウイです</guid>
+      <description>これはキウイです / 코레와 키우이데스 / 이것은 키위예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥝 キウイがすきです (키우이가 스키데스) · 키위를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-118</link>
+      <guid isPermaLink="false">jpplay:v4:1:118:キウイがすきです</guid>
+      <description>キウイがすきです / 키우이가 스키데스 / 키위를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥝 キウイをたべたいです (키우이오 타베타이데스) · 키위를 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-120</link>
+      <guid isPermaLink="false">jpplay:v4:1:120:キウイをたべたいです</guid>
+      <description>キウイをたべたいです / 키우이오 타베타이데스 / 키위를 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥝 キウイをください (키우이오 쿠다사이) · 키위 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-122</link>
+      <guid isPermaLink="false">jpplay:v4:1:122:キウイをください</guid>
+      <description>キウイをください / 키우이오 쿠다사이 / 키위 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍇 これはぶどうです (코레와 부도-데스) · 이것은 포도예요</title>
+      <link>https://example.org/jp-kana-ticker/#item-123</link>
+      <guid isPermaLink="false">jpplay:v4:1:123:これはぶどうです</guid>
+      <description>これはぶどうです / 코레와 부도-데스 / 이것은 포도예요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍇 ぶどうがすきです (부도-가 스키데스) · 포도를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-124</link>
+      <guid isPermaLink="false">jpplay:v4:1:124:ぶどうがすきです</guid>
+      <description>ぶどうがすきです / 부도-가 스키데스 / 포도를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍇 ぶどうをたべたいです (부도-오 타베타이데스) · 포도를 먹고 싶어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-125</link>
+      <guid isPermaLink="false">jpplay:v4:1:125:ぶどうをたべたいです</guid>
+      <description>ぶどうをたべたいです / 부도-오 타베타이데스 / 포도를 먹고 싶어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍇 ぶどうをください (부도-오 쿠다사이) · 포도 주세요</title>
+      <link>https://example.org/jp-kana-ticker/#item-126</link>
+      <guid isPermaLink="false">jpplay:v4:1:126:ぶどうをください</guid>
+      <description>ぶどうをください / 부도-오 쿠다사이 / 포도 주세요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍌 バナナがすき (바나나가 스키) · 바나나를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-127</link>
+      <guid isPermaLink="false">jpplay:v4:1:127:バナナがすき</guid>
+      <description>バナナがすき / 바나나가 스키 / 바나나를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍎 りんごをたべる (링고오 타베루) · 사과를 먹어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-128</link>
+      <guid isPermaLink="false">jpplay:v4:1:128:りんごをたべる</guid>
+      <description>りんごをたべる / 링고오 타베루 / 사과를 먹어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐼 パンダがすき (판다가 스키) · 판다를 좋아해요</title>
+      <link>https://example.org/jp-kana-ticker/#item-129</link>
+      <guid isPermaLink="false">jpplay:v4:1:129:パンダがすき</guid>
+      <description>パンダがすき / 판다가 스키 / 판다를 좋아해요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐱 ねこがいる (네코가 이루) · 고양이가 있어요</title>
+      <link>https://example.org/jp-kana-ticker/#item-130</link>
+      <guid isPermaLink="false">jpplay:v4:1:130:ねこがいる</guid>
+      <description>ねこがいる / 네코가 이루 / 고양이가 있어요</description>
+      <pubDate>Wed, 21 Oct 2026 22:15:26 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
