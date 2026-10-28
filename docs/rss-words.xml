@@ -3,709 +3,709 @@
   <channel>
     <title>일본어 놀이터 · 그림 단어에서 생활 문장까지 / 단어만</title>
     <link>https://jeryoma.github.io/jp-kana-ticker/</link>
-    <description>3일차 · 🍞 간식과 음료 + 다양한 생활 표현 | 단어 100개, 문장 55개 | 평일마다 변경</description>
+    <description>4일차 · 🏠 우리 집 + 다양한 생활 표현 | 단어 100개, 문장 55개 | 평일마다 변경</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 26 Oct 2026 22:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:17:00 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>🐹 ハムスター (하무스타-) · 햄스터</title>
+      <title>👅 あじ (아지) · 맛</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-1</link>
-      <guid isPermaLink="false">jpplay:v5:3:1:ハムスター</guid>
-      <description>ハムスター / 하무스타- / 햄스터</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:59 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:4:1:あじ</guid>
+      <description>あじ / 아지 / 맛</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:59 +0000</pubDate>
     </item>
     <item>
-      <title>🔑 かぎ (카기) · 열쇠</title>
+      <title>🪑 テーブル (테-부루) · 테이블</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-2</link>
-      <guid isPermaLink="false">jpplay:v5:3:2:かぎ</guid>
-      <description>かぎ / 카기 / 열쇠</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:58 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:4:2:テーブル</guid>
+      <description>テーブル / 테-부루 / 테이블</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:58 +0000</pubDate>
     </item>
     <item>
-      <title>🌼 コスモス (코스모스) · 코스모스</title>
+      <title>🍮 プリン (푸린) · 푸딩</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-4</link>
-      <guid isPermaLink="false">jpplay:v5:3:4:コスモス</guid>
-      <description>コスモス / 코스모스 / 코스모스</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:57 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:4:4:プリン</guid>
+      <description>プリン / 푸린 / 푸딩</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:57 +0000</pubDate>
     </item>
     <item>
-      <title>🚻 トイレ (토이레) · 화장실</title>
+      <title>✨ わくわく (와쿠와쿠) · 설렘</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-5</link>
-      <guid isPermaLink="false">jpplay:v5:3:5:トイレ</guid>
-      <description>トイレ / 토이레 / 화장실</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:56 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:4:5:わくわく</guid>
+      <description>わくわく / 와쿠와쿠 / 설렘</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:56 +0000</pubDate>
     </item>
     <item>
-      <title>⏲️ タイマー (타이마-) · 타이머</title>
+      <title>🚗 ミニカー (미니카-) · 장난감 자동차</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-7</link>
-      <guid isPermaLink="false">jpplay:v5:3:7:タイマー</guid>
-      <description>タイマー / 타이마- / 타이머</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐳 くじら (쿠지라) · 고래</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-8</link>
-      <guid isPermaLink="false">jpplay:v5:3:8:くじら</guid>
-      <description>くじら / 쿠지라 / 고래</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔊 おと (오토) · 소리</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-10</link>
-      <guid isPermaLink="false">jpplay:v5:3:10:おと</guid>
-      <description>おと / 오토 / 소리</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥛 ヨーグルト (요-구루토) · 요구르트</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-11</link>
-      <guid isPermaLink="false">jpplay:v5:3:11:ヨーグルト</guid>
-      <description>ヨーグルト / 요-구루토 / 요구르트</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>👁️ ひとみ (히토미) · 눈동자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-13</link>
-      <guid isPermaLink="false">jpplay:v5:3:13:ひとみ</guid>
-      <description>ひとみ / 히토미 / 눈동자</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌷 チューリップ (추-릿푸) · 튤립</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-14</link>
-      <guid isPermaLink="false">jpplay:v5:3:14:チューリップ</guid>
-      <description>チューリップ / 추-릿푸 / 튤립</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥣 みそ (미소) · 된장</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-16</link>
-      <guid isPermaLink="false">jpplay:v5:3:16:みそ</guid>
-      <description>みそ / 미소 / 된장</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎈 ふうせん (후-센) · 풍선</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-17</link>
-      <guid isPermaLink="false">jpplay:v5:3:17:ふうせん</guid>
-      <description>ふうせん / 후-센 / 풍선</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍪 おやつ (오야츠) · 간식</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-19</link>
-      <guid isPermaLink="false">jpplay:v5:3:19:おやつ</guid>
-      <description>おやつ / 오야츠 / 간식</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥛 ぎゅうにゅう (규-뉴-) · 우유</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-20</link>
-      <guid isPermaLink="false">jpplay:v5:3:20:ぎゅうにゅう</guid>
-      <description>ぎゅうにゅう / 규-뉴- / 우유</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>👋 バイバイ (바이바이) · 잘 가</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-22</link>
-      <guid isPermaLink="false">jpplay:v5:3:22:バイバイ</guid>
-      <description>バイバイ / 바이바이 / 잘 가</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>🏀 バスケ (바스케) · 농구</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-23</link>
-      <guid isPermaLink="false">jpplay:v5:3:23:バスケ</guid>
-      <description>バスケ / 바스케 / 농구</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍞 パン (팡) · 빵</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-25</link>
-      <guid isPermaLink="false">jpplay:v5:3:25:パン</guid>
-      <description>パン / 팡 / 빵</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐦 とり (토리) · 새</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-26</link>
-      <guid isPermaLink="false">jpplay:v5:3:26:とり</guid>
-      <description>とり / 토리 / 새</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥩 ステーキ (스테-키) · 스테이크</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-28</link>
-      <guid isPermaLink="false">jpplay:v5:3:28:ステーキ</guid>
-      <description>ステーキ / 스테-키 / 스테이크</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍬 おかし (오카시) · 과자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-29</link>
-      <guid isPermaLink="false">jpplay:v5:3:29:おかし</guid>
-      <description>おかし / 오카시 / 과자</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍃 すずしい (스즈시-) · 선선하다</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-31</link>
-      <guid isPermaLink="false">jpplay:v5:3:31:すずしい</guid>
-      <description>すずしい / 스즈시- / 선선하다</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦝 たぬき (타누키) · 너구리</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-32</link>
-      <guid isPermaLink="false">jpplay:v5:3:32:たぬき</guid>
-      <description>たぬき / 타누키 / 너구리</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍖 ハンバーグ (함바-구) · 함박스테이크</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-34</link>
-      <guid isPermaLink="false">jpplay:v5:3:34:ハンバーグ</guid>
-      <description>ハンバーグ / 함바-구 / 함박스테이크</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍲 とうふ (토-후) · 두부</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-35</link>
-      <guid isPermaLink="false">jpplay:v5:3:35:とうふ</guid>
-      <description>とうふ / 토-후 / 두부</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐬 いるか (이루카) · 돌고래</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-37</link>
-      <guid isPermaLink="false">jpplay:v5:3:37:いるか</guid>
-      <description>いるか / 이루카 / 돌고래</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍔 ハンバーガー (함바-가-) · 햄버거</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-38</link>
-      <guid isPermaLink="false">jpplay:v5:3:38:ハンバーガー</guid>
-      <description>ハンバーガー / 함바-가- / 햄버거</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐞 てんとうむし (텐토-무시) · 무당벌레</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-40</link>
-      <guid isPermaLink="false">jpplay:v5:3:40:てんとうむし</guid>
-      <description>てんとうむし / 텐토-무시 / 무당벌레</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🏠 いえ (이에) · 집</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-41</link>
-      <guid isPermaLink="false">jpplay:v5:3:41:いえ</guid>
-      <description>いえ / 이에 / 집</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>❄️ エアコン (에아콘) · 에어컨</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-43</link>
-      <guid isPermaLink="false">jpplay:v5:3:43:エアコン</guid>
-      <description>エアコン / 에아콘 / 에어컨</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚇 ちかてつ (치카테츠) · 지하철</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-44</link>
-      <guid isPermaLink="false">jpplay:v5:3:44:ちかてつ</guid>
-      <description>ちかてつ / 치카테츠 / 지하철</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌸 さくら (사쿠라) · 벚꽃</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-46</link>
-      <guid isPermaLink="false">jpplay:v5:3:46:さくら</guid>
-      <description>さくら / 사쿠라 / 벚꽃</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍊 グレープフルーツ (구레-푸후루-츠) · 자몽</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-47</link>
-      <guid isPermaLink="false">jpplay:v5:3:47:グレープフルーツ</guid>
-      <description>グレープフルーツ / 구레-푸후루-츠 / 자몽</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐒 さる (사루) · 원숭이</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-49</link>
-      <guid isPermaLink="false">jpplay:v5:3:49:さる</guid>
-      <description>さる / 사루 / 원숭이</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>💪 きんにく (킹니쿠) · 근육</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-50</link>
-      <guid isPermaLink="false">jpplay:v5:3:50:きんにく</guid>
-      <description>きんにく / 킹니쿠 / 근육</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧺 せんたくき (센타쿠키) · 세탁기</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-52</link>
-      <guid isPermaLink="false">jpplay:v5:3:52:せんたくき</guid>
-      <description>せんたくき / 센타쿠키 / 세탁기</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥚 たまご (타마고) · 달걀</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-53</link>
-      <guid isPermaLink="false">jpplay:v5:3:53:たまご</guid>
-      <description>たまご / 타마고 / 달걀</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>🏡 にわ (니와) · 마당</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-55</link>
-      <guid isPermaLink="false">jpplay:v5:3:55:にわ</guid>
-      <description>にわ / 니와 / 마당</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥞 パンケーキ (팡케-키) · 팬케이크</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-56</link>
-      <guid isPermaLink="false">jpplay:v5:3:56:パンケーキ</guid>
-      <description>パンケーキ / 팡케-키 / 팬케이크</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥯 あんぱん (앙팡) · 팥빵</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-58</link>
-      <guid isPermaLink="false">jpplay:v5:3:58:あんぱん</guid>
-      <description>あんぱん / 앙팡 / 팥빵</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍩 ドーナツ (도-나츠) · 도넛</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-59</link>
-      <guid isPermaLink="false">jpplay:v5:3:59:ドーナツ</guid>
-      <description>ドーナツ / 도-나츠 / 도넛</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐑 ひつじ (히츠지) · 양</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-61</link>
-      <guid isPermaLink="false">jpplay:v5:3:61:ひつじ</guid>
-      <description>ひつじ / 히츠지 / 양</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>😄 ハッピー (핫피-) · 행복한</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-62</link>
-      <guid isPermaLink="false">jpplay:v5:3:62:ハッピー</guid>
-      <description>ハッピー / 핫피- / 행복한</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍚 ごはん (고항) · 밥</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-64</link>
-      <guid isPermaLink="false">jpplay:v5:3:64:ごはん</guid>
-      <description>ごはん / 고항 / 밥</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍞 しょくぱん (쇼쿠팡) · 식빵</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-65</link>
-      <guid isPermaLink="false">jpplay:v5:3:65:しょくぱん</guid>
-      <description>しょくぱん / 쇼쿠팡 / 식빵</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎸 ギター (기타-) · 기타</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-67</link>
-      <guid isPermaLink="false">jpplay:v5:3:67:ギター</guid>
-      <description>ギター / 기타- / 기타</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍙 おにぎり (오니기리) · 주먹밥</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-68</link>
-      <guid isPermaLink="false">jpplay:v5:3:68:おにぎり</guid>
-      <description>おにぎり / 오니기리 / 주먹밥</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥈 ぎんいろ (깅이로) · 은색</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-70</link>
-      <guid isPermaLink="false">jpplay:v5:3:70:ぎんいろ</guid>
-      <description>ぎんいろ / 깅이로 / 은색</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>📺 テレビ (테레비) · 텔레비전</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-71</link>
-      <guid isPermaLink="false">jpplay:v5:3:71:テレビ</guid>
-      <description>テレビ / 테레비 / 텔레비전</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥞 ホットケーキ (홋토케-키) · 핫케이크</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-73</link>
-      <guid isPermaLink="false">jpplay:v5:3:73:ホットケーキ</guid>
-      <description>ホットケーキ / 홋토케-키 / 핫케이크</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>🪟 まど (마도) · 창문</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-74</link>
-      <guid isPermaLink="false">jpplay:v5:3:74:まど</guid>
-      <description>まど / 마도 / 창문</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥛 ミルク (미루쿠) · 우유</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-76</link>
-      <guid isPermaLink="false">jpplay:v5:3:76:ミルク</guid>
-      <description>ミルク / 미루쿠 / 우유</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>🖍️ クレヨン (쿠레용) · 크레용</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-77</link>
-      <guid isPermaLink="false">jpplay:v5:3:77:クレヨン</guid>
-      <description>クレヨン / 쿠레용 / 크레용</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛋️ ソファ (소파) · 소파</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-79</link>
-      <guid isPermaLink="false">jpplay:v5:3:79:ソファ</guid>
-      <description>ソファ / 소파 / 소파</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚄 しんかんせん (싱칸센) · 신칸센</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-80</link>
-      <guid isPermaLink="false">jpplay:v5:3:80:しんかんせん</guid>
-      <description>しんかんせん / 싱칸센 / 신칸센</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐢 かめ (카메) · 거북이</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-82</link>
-      <guid isPermaLink="false">jpplay:v5:3:82:かめ</guid>
-      <description>かめ / 카메 / 거북이</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>☕ ココア (코코아) · 코코아</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-83</link>
-      <guid isPermaLink="false">jpplay:v5:3:83:ココア</guid>
-      <description>ココア / 코코아 / 코코아</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>🙂 あたま (아타마) · 머리</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-85</link>
-      <guid isPermaLink="false">jpplay:v5:3:85:あたま</guid>
-      <description>あたま / 아타마 / 머리</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍫 チョコ (초코) · 초콜릿</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-86</link>
-      <guid isPermaLink="false">jpplay:v5:3:86:チョコ</guid>
-      <description>チョコ / 초코 / 초콜릿</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎾 テニス (테니스) · 테니스</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-88</link>
-      <guid isPermaLink="false">jpplay:v5:3:88:テニス</guid>
-      <description>テニス / 테니스 / 테니스</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍰 ケーキ (케-키) · 케이크</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-89</link>
-      <guid isPermaLink="false">jpplay:v5:3:89:ケーキ</guid>
-      <description>ケーキ / 케-키 / 케이크</description>
-      <pubDate>Mon, 26 Oct 2026 22:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧵 ひも (히모) · 끈</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-91</link>
-      <guid isPermaLink="false">jpplay:v5:3:91:ひも</guid>
-      <description>ひも / 히모 / 끈</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧋 アイスティー (아이스티-) · 아이스티</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-92</link>
-      <guid isPermaLink="false">jpplay:v5:3:92:アイスティー</guid>
-      <description>アイスティー / 아이스티- / 아이스티</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐰 うさぎ (우사기) · 토끼</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-94</link>
-      <guid isPermaLink="false">jpplay:v5:3:94:うさぎ</guid>
-      <description>うさぎ / 우사기 / 토끼</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>⛵ ふね (후네) · 배</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-95</link>
-      <guid isPermaLink="false">jpplay:v5:3:95:ふね</guid>
-      <description>ふね / 후네 / 배</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥳 たのしい (타노시-) · 즐겁다</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-97</link>
-      <guid isPermaLink="false">jpplay:v5:3:97:たのしい</guid>
-      <description>たのしい / 타노시- / 즐겁다</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎧 ヘッドホン (헷도혼) · 헤드폰</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-98</link>
-      <guid isPermaLink="false">jpplay:v5:3:98:ヘッドホン</guid>
-      <description>ヘッドホン / 헷도혼 / 헤드폰</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>🛁 おふろ (오후로) · 목욕탕·욕조</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-100</link>
-      <guid isPermaLink="false">jpplay:v5:3:100:おふろ</guid>
-      <description>おふろ / 오후로 / 목욕탕·욕조</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>🪑 つくえ (츠쿠에) · 책상</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-101</link>
-      <guid isPermaLink="false">jpplay:v5:3:101:つくえ</guid>
-      <description>つくえ / 츠쿠에 / 책상</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌸 はな (하나) · 꽃</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-103</link>
-      <guid isPermaLink="false">jpplay:v5:3:103:はな</guid>
-      <description>はな / 하나 / 꽃</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐼 パンダ (판다) · 판다</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-104</link>
-      <guid isPermaLink="false">jpplay:v5:3:104:パンダ</guid>
-      <description>パンダ / 판다 / 판다</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>🫙 しょうゆ (쇼-유) · 간장</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-106</link>
-      <guid isPermaLink="false">jpplay:v5:3:106:しょうゆ</guid>
-      <description>しょうゆ / 쇼-유 / 간장</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍰 シュークリーム (슈-쿠리-무) · 슈크림빵</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-107</link>
-      <guid isPermaLink="false">jpplay:v5:3:107:シュークリーム</guid>
-      <description>シュークリーム / 슈-쿠리-무 / 슈크림빵</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦉 フクロウ (후쿠로-) · 부엉이</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-109</link>
-      <guid isPermaLink="false">jpplay:v5:3:109:フクロウ</guid>
-      <description>フクロウ / 후쿠로- / 부엉이</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌲 もり (모리) · 숲</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-110</link>
-      <guid isPermaLink="false">jpplay:v5:3:110:もり</guid>
-      <description>もり / 모리 / 숲</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🪟 カーテン (카-텐) · 커튼</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-112</link>
-      <guid isPermaLink="false">jpplay:v5:3:112:カーテン</guid>
-      <description>カーテン / 카-텐 / 커튼</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧇 ワッフル (왓후루) · 와플</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-113</link>
-      <guid isPermaLink="false">jpplay:v5:3:113:ワッフル</guid>
-      <description>ワッフル / 왓후루 / 와플</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>👟 スニーカー (스니-카-) · 운동화</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-115</link>
-      <guid isPermaLink="false">jpplay:v5:3:115:スニーカー</guid>
-      <description>スニーカー / 스니-카- / 운동화</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦒 キリン (키린) · 기린</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-116</link>
-      <guid isPermaLink="false">jpplay:v5:3:116:キリン</guid>
-      <description>キリン / 키린 / 기린</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍟 ポテト (포테토) · 감자튀김</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-118</link>
-      <guid isPermaLink="false">jpplay:v5:3:118:ポテト</guid>
-      <description>ポテト / 포테토 / 감자튀김</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦌 しか (시카) · 사슴</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-119</link>
-      <guid isPermaLink="false">jpplay:v5:3:119:しか</guid>
-      <description>しか / 시카 / 사슴</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>⌚ じかん (지칸) · 시간</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-121</link>
-      <guid isPermaLink="false">jpplay:v5:3:121:じかん</guid>
-      <description>じかん / 지칸 / 시간</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍘 せんべい (센베-) · 쌀과자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-122</link>
-      <guid isPermaLink="false">jpplay:v5:3:122:せんべい</guid>
-      <description>せんべい / 센베- / 쌀과자</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>🦍 ゴリラ (고리라) · 고릴라</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-124</link>
-      <guid isPermaLink="false">jpplay:v5:3:124:ゴリラ</guid>
-      <description>ゴリラ / 고리라 / 고릴라</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>☕ コーヒー (코-히-) · 커피</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-125</link>
-      <guid isPermaLink="false">jpplay:v5:3:125:コーヒー</guid>
-      <description>コーヒー / 코-히- / 커피</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>⭐ ほし (호시) · 별</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-127</link>
-      <guid isPermaLink="false">jpplay:v5:3:127:ほし</guid>
-      <description>ほし / 호시 / 별</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧃 ジュース (주-스) · 주스</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-128</link>
-      <guid isPermaLink="false">jpplay:v5:3:128:ジュース</guid>
-      <description>ジュース / 주-스 / 주스</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐝 はち (하치) · 벌</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-130</link>
-      <guid isPermaLink="false">jpplay:v5:3:130:はち</guid>
-      <description>はち / 하치 / 벌</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧊 れいぞうこ (레이조-코) · 냉장고</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-131</link>
-      <guid isPermaLink="false">jpplay:v5:3:131:れいぞうこ</guid>
-      <description>れいぞうこ / 레이조-코 / 냉장고</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🐟 さかな (사카나) · 물고기</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-133</link>
-      <guid isPermaLink="false">jpplay:v5:3:133:さかな</guid>
-      <description>さかな / 사카나 / 물고기</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥪 サンドイッチ (산도잇치) · 샌드위치</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-134</link>
-      <guid isPermaLink="false">jpplay:v5:3:134:サンドイッチ</guid>
-      <description>サンドイッチ / 산도잇치 / 샌드위치</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧀 チーズ (치-즈) · 치즈</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-136</link>
-      <guid isPermaLink="false">jpplay:v5:3:136:チーズ</guid>
-      <description>チーズ / 치-즈 / 치즈</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍬 マカロン (마카롱) · 마카롱</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-137</link>
-      <guid isPermaLink="false">jpplay:v5:3:137:マカロン</guid>
-      <description>マカロン / 마카롱 / 마카롱</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧑‍🤝‍🧑 ともだち (토모다치) · 친구</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-139</link>
-      <guid isPermaLink="false">jpplay:v5:3:139:ともだち</guid>
-      <description>ともだち / 토모다치 / 친구</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>💧 みず (미즈) · 물</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-140</link>
-      <guid isPermaLink="false">jpplay:v5:3:140:みず</guid>
-      <description>みず / 미즈 / 물</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>🫘 あんこ (앙코) · 팥소</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-142</link>
-      <guid isPermaLink="false">jpplay:v5:3:142:あんこ</guid>
-      <description>あんこ / 앙코 / 팥소</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:25 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:4:7:ミニカー</guid>
+      <description>ミニカー / 미니카- / 장난감 자동차</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:55 +0000</pubDate>
     </item>
     <item>
       <title>⏰ とけい (토케-) · 시계</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-143</link>
-      <guid isPermaLink="false">jpplay:v5:3:143:とけい</guid>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-8</link>
+      <guid isPermaLink="false">jpplay:v5:4:8:とけい</guid>
       <description>とけい / 토케- / 시계</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:24 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 22:16:54 +0000</pubDate>
     </item>
     <item>
-      <title>🍵 おちゃ (오차) · 차</title>
+      <title>🏡 にわ (니와) · 마당</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-10</link>
+      <guid isPermaLink="false">jpplay:v5:4:10:にわ</guid>
+      <description>にわ / 니와 / 마당</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏛️ はくぶつかん (하쿠부츠칸) · 박물관</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-11</link>
+      <guid isPermaLink="false">jpplay:v5:4:11:はくぶつかん</guid>
+      <description>はくぶつかん / 하쿠부츠칸 / 박물관</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎾 テニス (테니스) · 테니스</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-13</link>
+      <guid isPermaLink="false">jpplay:v5:4:13:テニス</guid>
+      <description>テニス / 테니스 / 테니스</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎒 ランドセル (란도세루) · 어린이 책가방</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-14</link>
+      <guid isPermaLink="false">jpplay:v5:4:14:ランドセル</guid>
+      <description>ランドセル / 란도세루 / 어린이 책가방</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥛 ヨーグルト (요-구루토) · 요구르트</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-16</link>
+      <guid isPermaLink="false">jpplay:v5:4:16:ヨーグルト</guid>
+      <description>ヨーグルト / 요-구루토 / 요구르트</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚫ くろ (쿠로) · 검정</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-17</link>
+      <guid isPermaLink="false">jpplay:v5:4:17:くろ</guid>
+      <description>くろ / 쿠로 / 검정</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏫 がっこう (각코-) · 학교</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-19</link>
+      <guid isPermaLink="false">jpplay:v5:4:19:がっこう</guid>
+      <description>がっこう / 각코- / 학교</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍲 とうふ (토-후) · 두부</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-20</link>
+      <guid isPermaLink="false">jpplay:v5:4:20:とうふ</guid>
+      <description>とうふ / 토-후 / 두부</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎤 うたう (우타우) · 노래하다</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-22</link>
+      <guid isPermaLink="false">jpplay:v5:4:22:うたう</guid>
+      <description>うたう / 우타우 / 노래하다</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏠 いえ (이에) · 집</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-23</link>
+      <guid isPermaLink="false">jpplay:v5:4:23:いえ</guid>
+      <description>いえ / 이에 / 집</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>✨ ワクワク (와쿠와쿠) · 설렘(가타카나)</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-25</link>
+      <guid isPermaLink="false">jpplay:v5:4:25:ワクワク</guid>
+      <description>ワクワク / 와쿠와쿠 / 설렘(가타카나)</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>😟 しんぱい (심파이) · 걱정</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-26</link>
+      <guid isPermaLink="false">jpplay:v5:4:26:しんぱい</guid>
+      <description>しんぱい / 심파이 / 걱정</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪑 いす (이스) · 의자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-28</link>
+      <guid isPermaLink="false">jpplay:v5:4:28:いす</guid>
+      <description>いす / 이스 / 의자</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍰 ケーキ (케-키) · 케이크</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-29</link>
+      <guid isPermaLink="false">jpplay:v5:4:29:ケーキ</guid>
+      <description>ケーキ / 케-키 / 케이크</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗓️ スケジュール (스케주-루) · 일정</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-31</link>
+      <guid isPermaLink="false">jpplay:v5:4:31:スケジュール</guid>
+      <description>スケジュール / 스케주-루 / 일정</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍑 プラム (푸라무) · 자두</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-32</link>
+      <guid isPermaLink="false">jpplay:v5:4:32:プラム</guid>
+      <description>プラム / 푸라무 / 자두</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥛 ミルク (미루쿠) · 우유</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-34</link>
+      <guid isPermaLink="false">jpplay:v5:4:34:ミルク</guid>
+      <description>ミルク / 미루쿠 / 우유</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛏️ ベッド (벳도) · 침대</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-35</link>
+      <guid isPermaLink="false">jpplay:v5:4:35:ベッド</guid>
+      <description>ベッド / 벳도 / 침대</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>☕ カフェ (카페) · 카페</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-37</link>
+      <guid isPermaLink="false">jpplay:v5:4:37:カフェ</guid>
+      <description>カフェ / 카페 / 카페</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚪 げんかん (겡칸) · 현관</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-38</link>
+      <guid isPermaLink="false">jpplay:v5:4:38:げんかん</guid>
+      <description>げんかん / 겡칸 / 현관</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧱 ブロック (부롯쿠) · 블록</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-40</link>
+      <guid isPermaLink="false">jpplay:v5:4:40:ブロック</guid>
+      <description>ブロック / 부롯쿠 / 블록</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>👋 いってらっしゃい (잇테랏샤이) · 잘 다녀와</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-41</link>
+      <guid isPermaLink="false">jpplay:v5:4:41:いってらっしゃい</guid>
+      <description>いってらっしゃい / 잇테랏샤이 / 잘 다녀와</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦓 しまもよう (시마모요-) · 줄무늬</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-43</link>
+      <guid isPermaLink="false">jpplay:v5:4:43:しまもよう</guid>
+      <description>しまもよう / 시마모요- / 줄무늬</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛋️ クッション (쿳숀) · 쿠션</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-44</link>
+      <guid isPermaLink="false">jpplay:v5:4:44:クッション</guid>
+      <description>クッション / 쿳숀 / 쿠션</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🩷 ももいろ (모모이로) · 분홍색</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-46</link>
+      <guid isPermaLink="false">jpplay:v5:4:46:ももいろ</guid>
+      <description>ももいろ / 모모이로 / 분홍색</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌 オッケー (옷케-) · 오케이</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-47</link>
+      <guid isPermaLink="false">jpplay:v5:4:47:オッケー</guid>
+      <description>オッケー / 옷케- / 오케이</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>☕ コーヒー (코-히-) · 커피</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-49</link>
+      <guid isPermaLink="false">jpplay:v5:4:49:コーヒー</guid>
+      <description>コーヒー / 코-히- / 커피</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>😖 ストレス (스토레스) · 스트레스</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-50</link>
+      <guid isPermaLink="false">jpplay:v5:4:50:ストレス</guid>
+      <description>ストレス / 스토레스 / 스트레스</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>📺 テレビ (테레비) · 텔레비전</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-52</link>
+      <guid isPermaLink="false">jpplay:v5:4:52:テレビ</guid>
+      <description>テレビ / 테레비 / 텔레비전</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪟 まど (마도) · 창문</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-53</link>
+      <guid isPermaLink="false">jpplay:v5:4:53:まど</guid>
+      <description>まど / 마도 / 창문</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪑 つくえ (츠쿠에) · 책상</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-55</link>
+      <guid isPermaLink="false">jpplay:v5:4:55:つくえ</guid>
+      <description>つくえ / 츠쿠에 / 책상</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛋️ ソファ (소파) · 소파</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-56</link>
+      <guid isPermaLink="false">jpplay:v5:4:56:ソファ</guid>
+      <description>ソファ / 소파 / 소파</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🟫 こげちゃいろ (코게차이로) · 진한 갈색</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-58</link>
+      <guid isPermaLink="false">jpplay:v5:4:58:こげちゃいろ</guid>
+      <description>こげちゃいろ / 코게차이로 / 진한 갈색</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥞 ホットケーキ (홋토케-키) · 핫케이크</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-59</link>
+      <guid isPermaLink="false">jpplay:v5:4:59:ホットケーキ</guid>
+      <description>ホットケーキ / 홋토케-키 / 핫케이크</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>💇 かみのけ (카미노케) · 머리카락</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-61</link>
+      <guid isPermaLink="false">jpplay:v5:4:61:かみのけ</guid>
+      <description>かみのけ / 카미노케 / 머리카락</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🟢 グリーン (구리-응) · 초록</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-62</link>
+      <guid isPermaLink="false">jpplay:v5:4:62:グリーン</guid>
+      <description>グリーン / 구리-응 / 초록</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>🟣 むらさき (무라사키) · 보라색</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-64</link>
+      <guid isPermaLink="false">jpplay:v5:4:64:むらさき</guid>
+      <description>むらさき / 무라사키 / 보라색</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍲 おかず (오카즈) · 반찬</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-65</link>
+      <guid isPermaLink="false">jpplay:v5:4:65:おかず</guid>
+      <description>おかず / 오카즈 / 반찬</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>😄 ハッピー (핫피-) · 행복한</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-67</link>
+      <guid isPermaLink="false">jpplay:v5:4:67:ハッピー</guid>
+      <description>ハッピー / 핫피- / 행복한</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐞 てんとうむし (텐토-무시) · 무당벌레</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-68</link>
+      <guid isPermaLink="false">jpplay:v5:4:68:てんとうむし</guid>
+      <description>てんとうむし / 텐토-무시 / 무당벌레</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚻 トイレ (토이레) · 화장실</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-70</link>
+      <guid isPermaLink="false">jpplay:v5:4:70:トイレ</guid>
+      <description>トイレ / 토이레 / 화장실</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧊 れいぞうこ (레이조-코) · 냉장고</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-71</link>
+      <guid isPermaLink="false">jpplay:v5:4:71:れいぞうこ</guid>
+      <description>れいぞうこ / 레이조-코 / 냉장고</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥛 ぎゅうにゅう (규-뉴-) · 우유</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-73</link>
+      <guid isPermaLink="false">jpplay:v5:4:73:ぎゅうにゅう</guid>
+      <description>ぎゅうにゅう / 규-뉴- / 우유</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>👥 チーム (치-무) · 팀</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-74</link>
+      <guid isPermaLink="false">jpplay:v5:4:74:チーム</guid>
+      <description>チーム / 치-무 / 팀</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>😔 さみしい (사미시-) · 외롭다</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-76</link>
+      <guid isPermaLink="false">jpplay:v5:4:76:さみしい</guid>
+      <description>さみしい / 사미시- / 외롭다</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏆 かち (카치) · 승리</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-77</link>
+      <guid isPermaLink="false">jpplay:v5:4:77:かち</guid>
+      <description>かち / 카치 / 승리</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>😌 あんしん (안싱) · 안심</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-79</link>
+      <guid isPermaLink="false">jpplay:v5:4:79:あんしん</guid>
+      <description>あんしん / 안싱 / 안심</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏖️ うみべ (우미베) · 바닷가</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-80</link>
+      <guid isPermaLink="false">jpplay:v5:4:80:うみべ</guid>
+      <description>うみべ / 우미베 / 바닷가</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍀 ラッキー (랏키-) · 운 좋은</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-82</link>
+      <guid isPermaLink="false">jpplay:v5:4:82:ラッキー</guid>
+      <description>ラッキー / 랏키- / 운 좋은</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧇 ワッフル (왓후루) · 와플</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-83</link>
+      <guid isPermaLink="false">jpplay:v5:4:83:ワッフル</guid>
+      <description>ワッフル / 왓후루 / 와플</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍘 せんべい (센베-) · 쌀과자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-85</link>
+      <guid isPermaLink="false">jpplay:v5:4:85:せんべい</guid>
+      <description>せんべい / 센베- / 쌀과자</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>❄️ エアコン (에아콘) · 에어컨</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-86</link>
+      <guid isPermaLink="false">jpplay:v5:4:86:エアコン</guid>
+      <description>エアコン / 에아콘 / 에어컨</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔵 ブルー (부루-) · 파란색</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-88</link>
+      <guid isPermaLink="false">jpplay:v5:4:88:ブルー</guid>
+      <description>ブルー / 부루- / 파란색</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥇 きんいろ (킹이로) · 금색</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-89</link>
+      <guid isPermaLink="false">jpplay:v5:4:89:きんいろ</guid>
+      <description>きんいろ / 킹이로 / 금색</description>
+      <pubDate>Tue, 27 Oct 2026 22:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚗 くるま (쿠루마) · 자동차</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-91</link>
+      <guid isPermaLink="false">jpplay:v5:4:91:くるま</guid>
+      <description>くるま / 쿠루마 / 자동차</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>📺 リモコン (리모콘) · 리모컨</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-92</link>
+      <guid isPermaLink="false">jpplay:v5:4:92:リモコン</guid>
+      <description>リモコン / 리모콘 / 리모컨</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>👖 ベルト (베루토) · 벨트</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-94</link>
+      <guid isPermaLink="false">jpplay:v5:4:94:ベルト</guid>
+      <description>ベルト / 베루토 / 벨트</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥚 たまご (타마고) · 달걀</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-95</link>
+      <guid isPermaLink="false">jpplay:v5:4:95:たまご</guid>
+      <description>たまご / 타마고 / 달걀</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎈 たのしみ (타노시미) · 기대·즐거움</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-97</link>
+      <guid isPermaLink="false">jpplay:v5:4:97:たのしみ</guid>
+      <description>たのしみ / 타노시미 / 기대·즐거움</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍳 だいどころ (다이도코로) · 부엌</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-98</link>
+      <guid isPermaLink="false">jpplay:v5:4:98:だいどころ</guid>
+      <description>だいどころ / 다이도코로 / 부엌</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚪 ドア (도아) · 문</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-100</link>
+      <guid isPermaLink="false">jpplay:v5:4:100:ドア</guid>
+      <description>ドア / 도아 / 문</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏅 せんしゅ (센슈) · 선수</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-101</link>
+      <guid isPermaLink="false">jpplay:v5:4:101:せんしゅ</guid>
+      <description>せんしゅ / 센슈 / 선수</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛏️ まくら (마쿠라) · 베개</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-103</link>
+      <guid isPermaLink="false">jpplay:v5:4:103:まくら</guid>
+      <description>まくら / 마쿠라 / 베개</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>💡 ランプ (람푸) · 램프</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-104</link>
+      <guid isPermaLink="false">jpplay:v5:4:104:ランプ</guid>
+      <description>ランプ / 람푸 / 램프</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>👌 だいじょうぶ (다이조-부) · 괜찮아</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-106</link>
+      <guid isPermaLink="false">jpplay:v5:4:106:だいじょうぶ</guid>
+      <description>だいじょうぶ / 다이조-부 / 괜찮아</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍔 ハンバーガー (함바-가-) · 햄버거</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-107</link>
+      <guid isPermaLink="false">jpplay:v5:4:107:ハンバーガー</guid>
+      <description>ハンバーガー / 함바-가- / 햄버거</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛌 ふとん (후톤) · 이불</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-109</link>
+      <guid isPermaLink="false">jpplay:v5:4:109:ふとん</guid>
+      <description>ふとん / 후톤 / 이불</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛁 おふろ (오후로) · 목욕탕·욕조</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-110</link>
+      <guid isPermaLink="false">jpplay:v5:4:110:おふろ</guid>
+      <description>おふろ / 오후로 / 목욕탕·욕조</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐝 はち (하치) · 벌</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-112</link>
+      <guid isPermaLink="false">jpplay:v5:4:112:はち</guid>
+      <description>はち / 하치 / 벌</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎮 ゲーム (게-무) · 게임</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-113</link>
+      <guid isPermaLink="false">jpplay:v5:4:113:ゲーム</guid>
+      <description>ゲーム / 게-무 / 게임</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔴 あか (아카) · 빨강</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-115</link>
+      <guid isPermaLink="false">jpplay:v5:4:115:あか</guid>
+      <description>あか / 아카 / 빨강</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧺 タオル (타오루) · 수건</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-116</link>
+      <guid isPermaLink="false">jpplay:v5:4:116:タオル</guid>
+      <description>タオル / 타오루 / 수건</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍪 クッキー (쿳키-) · 쿠키</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-118</link>
+      <guid isPermaLink="false">jpplay:v5:4:118:クッキー</guid>
+      <description>クッキー / 쿳키- / 쿠키</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧀 チーズ (치-즈) · 치즈</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-119</link>
+      <guid isPermaLink="false">jpplay:v5:4:119:チーズ</guid>
+      <description>チーズ / 치-즈 / 치즈</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥯 あんぱん (앙팡) · 팥빵</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-121</link>
+      <guid isPermaLink="false">jpplay:v5:4:121:あんぱん</guid>
+      <description>あんぱん / 앙팡 / 팥빵</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚪ しろ (시로) · 하양</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-122</link>
+      <guid isPermaLink="false">jpplay:v5:4:122:しろ</guid>
+      <description>しろ / 시로 / 하양</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚪ ホワイト (호와이토) · 흰색</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-124</link>
+      <guid isPermaLink="false">jpplay:v5:4:124:ホワイト</guid>
+      <description>ホワイト / 호와이토 / 흰색</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐶 いぬ (이누) · 개</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-125</link>
+      <guid isPermaLink="false">jpplay:v5:4:125:いぬ</guid>
+      <description>いぬ / 이누 / 개</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎬 えいがかん (에-가칸) · 영화관</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-127</link>
+      <guid isPermaLink="false">jpplay:v5:4:127:えいがかん</guid>
+      <description>えいがかん / 에-가칸 / 영화관</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧺 せんたくき (센타쿠키) · 세탁기</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-128</link>
+      <guid isPermaLink="false">jpplay:v5:4:128:せんたくき</guid>
+      <description>せんたくき / 센타쿠키 / 세탁기</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🐮 うし (우시) · 소</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-130</link>
+      <guid isPermaLink="false">jpplay:v5:4:130:うし</guid>
+      <description>うし / 우시 / 소</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥪 サンドイッチ (산도잇치) · 샌드위치</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-131</link>
+      <guid isPermaLink="false">jpplay:v5:4:131:サンドイッチ</guid>
+      <description>サンドイッチ / 산도잇치 / 샌드위치</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛏️ へや (헤야) · 방</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-133</link>
+      <guid isPermaLink="false">jpplay:v5:4:133:へや</guid>
+      <description>へや / 헤야 / 방</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍫 チョコレート (초코레-토) · 초콜릿</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-134</link>
+      <guid isPermaLink="false">jpplay:v5:4:134:チョコレート</guid>
+      <description>チョコレート / 초코레-토 / 초콜릿</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪞 かがみ (카가미) · 거울</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-136</link>
+      <guid isPermaLink="false">jpplay:v5:4:136:かがみ</guid>
+      <description>かがみ / 카가미 / 거울</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🪟 カーテン (카-텐) · 커튼</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-137</link>
+      <guid isPermaLink="false">jpplay:v5:4:137:カーテン</guid>
+      <description>カーテン / 카-텐 / 커튼</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍙 おにぎり (오니기리) · 주먹밥</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-139</link>
+      <guid isPermaLink="false">jpplay:v5:4:139:おにぎり</guid>
+      <description>おにぎり / 오니기리 / 주먹밥</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>📝 テスト (테스토) · 시험</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-140</link>
+      <guid isPermaLink="false">jpplay:v5:4:140:テスト</guid>
+      <description>テスト / 테스토 / 시험</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚫ ブラック (부랏쿠) · 검은색</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-142</link>
+      <guid isPermaLink="false">jpplay:v5:4:142:ブラック</guid>
+      <description>ブラック / 부랏쿠 / 검은색</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔑 かぎ (카기) · 열쇠</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-143</link>
+      <guid isPermaLink="false">jpplay:v5:4:143:かぎ</guid>
+      <description>かぎ / 카기 / 열쇠</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>🩵 みずいろ (미즈이로) · 하늘색</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-145</link>
-      <guid isPermaLink="false">jpplay:v5:3:145:おちゃ</guid>
-      <description>おちゃ / 오차 / 차</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:23 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:4:145:みずいろ</guid>
+      <description>みずいろ / 미즈이로 / 하늘색</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:23 +0000</pubDate>
     </item>
     <item>
-      <title>🍦 アイス (아이스) · 아이스크림</title>
+      <title>🍎 くだもの (쿠다모노) · 과일</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-146</link>
-      <guid isPermaLink="false">jpplay:v5:3:146:アイス</guid>
-      <description>アイス / 아이스 / 아이스크림</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:22 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:4:146:くだもの</guid>
+      <description>くだもの / 쿠다모노 / 과일</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:22 +0000</pubDate>
     </item>
     <item>
-      <title>🌳 きのえだ (키노에다) · 나뭇가지</title>
+      <title>🏥 びょういん (뵤-인) · 병원</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-148</link>
-      <guid isPermaLink="false">jpplay:v5:3:148:きのえだ</guid>
-      <description>きのえだ / 키노에다 / 나뭇가지</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:21 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:4:148:びょういん</guid>
+      <description>びょういん / 뵤-인 / 병원</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:21 +0000</pubDate>
     </item>
     <item>
-      <title>🌤️ こもれび (코모레비) · 나뭇잎 사이 햇빛</title>
+      <title>🛗 エレベーター (에레베-타-) · 엘리베이터</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-149</link>
-      <guid isPermaLink="false">jpplay:v5:3:149:こもれび</guid>
-      <description>こもれび / 코모레비 / 나뭇잎 사이 햇빛</description>
-      <pubDate>Mon, 26 Oct 2026 22:15:20 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:4:149:エレベーター</guid>
+      <description>エレベーター / 에레베-타- / 엘리베이터</description>
+      <pubDate>Tue, 27 Oct 2026 22:15:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
