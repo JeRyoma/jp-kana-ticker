@@ -3,394 +3,394 @@
   <channel>
     <title>일본어 놀이터 · 그림 단어에서 생활 문장까지 / 문장만</title>
     <link>https://jeryoma.github.io/jp-kana-ticker/</link>
-    <description>9일차 · 🎵 신나는 놀이 + 다양한 생활 표현 | 단어 100개, 문장 55개 | 평일마다 변경</description>
+    <description>10일차 · 😊 옷과 몸 + 다양한 생활 표현 | 단어 100개, 문장 55개 | 평일마다 변경</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 22:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:17:00 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>🙏 もういちどおねがい (모- 이치도 오네가이) · 한 번 더 부탁해</title>
+      <title>🧩 このパズル、むずかしいね (코노 파즈루, 무즈카시-네) · 이 퍼즐 어렵네</title>
       <link>https://jeryoma.github.io/jp-kana-ticker/#item-3</link>
-      <guid isPermaLink="false">jpplay:v5:9:3:もういちどおねがい</guid>
-      <description>もういちどおねがい / 모- 이치도 오네가이 / 한 번 더 부탁해</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>💪 だいじょうぶ、できるよ (다이조-부, 데키루요) · 괜찮아, 할 수 있어</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-6</link>
-      <guid isPermaLink="false">jpplay:v5:9:6:だいじょうぶ、できるよ</guid>
-      <description>だいじょうぶ、できるよ / 다이조-부, 데키루요 / 괜찮아, 할 수 있어</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎧 いちばんすきなうたはなに？ (이치방 스키나 우타와 나니?) · 가장 좋아하는 노래가 뭐야?</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-9</link>
-      <guid isPermaLink="false">jpplay:v5:9:9:いちばんすきなうたはなに？</guid>
-      <description>いちばんすきなうたはなに？ / 이치방 스키나 우타와 나니? / 가장 좋아하는 노래가 뭐야?</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚶 あとでいっしょにいこう (아토데 잇쇼니 이코-) · 나중에 같이 가자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-12</link>
-      <guid isPermaLink="false">jpplay:v5:9:12:あとでいっしょにいこう</guid>
-      <description>あとでいっしょにいこう / 아토데 잇쇼니 이코- / 나중에 같이 가자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>⌛ もうすぐおわるよ (모-스구 오와루요) · 곧 끝나</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-15</link>
-      <guid isPermaLink="false">jpplay:v5:9:15:もうすぐおわるよ</guid>
-      <description>もうすぐおわるよ / 모-스구 오와루요 / 곧 끝나</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>⛺ テントのなかはひろいよ (텐토노 나카와 히로이요) · 텐트 안은 넓어</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-18</link>
-      <guid isPermaLink="false">jpplay:v5:9:18:テントのなかはひろいよ</guid>
-      <description>テントのなかはひろいよ / 텐토노 나카와 히로이요 / 텐트 안은 넓어</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚿 あさはかおをあらおう (아사와 카오오 아라오-) · 아침에는 얼굴을 씻자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-21</link>
-      <guid isPermaLink="false">jpplay:v5:9:21:あさはかおをあらおう</guid>
-      <description>あさはかおをあらおう / 아사와 카오오 아라오- / 아침에는 얼굴을 씻자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>☕ ちょっとだけやすもう (촛토다케 야스모-) · 잠깐만 쉬자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-24</link>
-      <guid isPermaLink="false">jpplay:v5:9:24:ちょっとだけやすもう</guid>
-      <description>ちょっとだけやすもう / 촛토다케 야스모- / 잠깐만 쉬자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚶 だれといくの？ (다레토 이쿠노?) · 누구랑 가?</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-27</link>
-      <guid isPermaLink="false">jpplay:v5:9:27:だれといくの？</guid>
-      <description>だれといくの？ / 다레토 이쿠노? / 누구랑 가?</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎹 ピアノのれんしゅうをする (피아노노 렌슈-오 스루) · 피아노 연습을 해</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-30</link>
-      <guid isPermaLink="false">jpplay:v5:9:30:ピアノのれんしゅうをする</guid>
-      <description>ピアノのれんしゅうをする / 피아노노 렌슈-오 스루 / 피아노 연습을 해</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>💚 だいじょうぶ？むりしないで (다이조-부? 무리시나이데) · 괜찮아? 무리하지 마</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-33</link>
-      <guid isPermaLink="false">jpplay:v5:9:33:だいじょうぶ？むりしないで</guid>
-      <description>だいじょうぶ？むりしないで / 다이조-부? 무리시나이데 / 괜찮아? 무리하지 마</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>⏳ ちょっとまってください (촛토 맛테쿠다사이) · 잠깐 기다려 주세요</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-36</link>
-      <guid isPermaLink="false">jpplay:v5:9:36:ちょっとまってください</guid>
-      <description>ちょっとまってください / 촛토 맛테쿠다사이 / 잠깐 기다려 주세요</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>💓 どきどきしてねむれない (도키도키시테 네무레나이) · 두근거려서 잠이 안 와</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-39</link>
-      <guid isPermaLink="false">jpplay:v5:9:39:どきどきしてねむれない</guid>
-      <description>どきどきしてねむれない / 도키도키시테 네무레나이 / 두근거려서 잠이 안 와</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>💗 みんながげんきでうれしい (민나가 겡키데 우레시-) · 모두 건강해서 기뻐</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-42</link>
-      <guid isPermaLink="false">jpplay:v5:9:42:みんながげんきでうれしい</guid>
-      <description>みんながげんきでうれしい / 민나가 겡키데 우레시- / 모두 건강해서 기뻐</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>👕 きょうはシャツをきるよ (쿄-와 샤츠오 키루요) · 오늘은 셔츠 입을 거야</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-45</link>
-      <guid isPermaLink="false">jpplay:v5:9:45:きょうはシャツをきるよ</guid>
-      <description>きょうはシャツをきるよ / 쿄-와 샤츠오 키루요 / 오늘은 셔츠 입을 거야</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>😮‍💨 すこしつかれたからやすむね (스코시 츠카레타카라 야스무네) · 조금 피곤해서 쉴게</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-48</link>
-      <guid isPermaLink="false">jpplay:v5:9:48:すこしつかれたからやすむね</guid>
-      <description>すこしつかれたからやすむね / 스코시 츠카레타카라 야스무네 / 조금 피곤해서 쉴게</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>📅 いつにしようか？ (이츠니 시요-카?) · 언제로 할까?</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-51</link>
-      <guid isPermaLink="false">jpplay:v5:9:51:いつにしようか？</guid>
-      <description>いつにしようか？ / 이츠니 시요-카? / 언제로 할까?</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌞 きょうはピクニックびよりだ (쿄-와 피쿠닛쿠비요리다) · 오늘은 소풍 가기 좋은 날이야</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-54</link>
-      <guid isPermaLink="false">jpplay:v5:9:54:きょうはピクニックびよりだ</guid>
-      <description>きょうはピクニックびよりだ / 쿄-와 피쿠닛쿠비요리다 / 오늘은 소풍 가기 좋은 날이야</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>👟 スニーカーであるこう (스니-카-데 아루코-) · 운동화를 신고 걷자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-57</link>
-      <guid isPermaLink="false">jpplay:v5:9:57:スニーカーであるこう</guid>
-      <description>スニーカーであるこう / 스니-카-데 아루코- / 운동화를 신고 걷자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>👋 またあしたあおうね (마타 아시타 아오-네) · 내일 또 만나자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-60</link>
-      <guid isPermaLink="false">jpplay:v5:9:60:またあしたあおうね</guid>
-      <description>またあしたあおうね / 마타 아시타 아오-네 / 내일 또 만나자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤝 はじめまして、よろしくね (하지메마시테, 요로시쿠네) · 처음 만나, 잘 부탁해</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-63</link>
-      <guid isPermaLink="false">jpplay:v5:9:63:はじめまして、よろしくね</guid>
-      <description>はじめまして、よろしくね / 하지메마시테, 요로시쿠네 / 처음 만나, 잘 부탁해</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>😊 きょうもたのしかったね (쿄-모 타노시캇타네) · 오늘도 즐거웠어</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-66</link>
-      <guid isPermaLink="false">jpplay:v5:9:66:きょうもたのしかったね</guid>
-      <description>きょうもたのしかったね / 쿄-모 타노시캇타네 / 오늘도 즐거웠어</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>🙇 すみません、もういちど (스미마센, 모- 이치도) · 죄송하지만 한 번 더요</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-69</link>
-      <guid isPermaLink="false">jpplay:v5:9:69:すみません、もういちど</guid>
-      <description>すみません、もういちど / 스미마센, 모- 이치도 / 죄송하지만 한 번 더요</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>💧 みずをわすれずにもっていこう (미즈오 와스레즈니 못테이코-) · 물을 잊지 말고 가져가자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-72</link>
-      <guid isPermaLink="false">jpplay:v5:9:72:みずをわすれずにもっていこう</guid>
-      <description>みずをわすれずにもっていこう / 미즈오 와스레즈니 못테이코- / 물을 잊지 말고 가져가자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>🌌 ほしがいっぱいみえるね (호시가 잇파이 미에루네) · 별이 가득 보이네</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-75</link>
-      <guid isPermaLink="false">jpplay:v5:9:75:ほしがいっぱいみえるね</guid>
-      <description>ほしがいっぱいみえるね / 호시가 잇파이 미에루네 / 별이 가득 보이네</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>☀️ おはよう、きょうもよろしく (오하요-, 쿄-모 요로시쿠) · 좋은 아침, 오늘도 잘 부탁해</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-78</link>
-      <guid isPermaLink="false">jpplay:v5:9:78:おはよう、きょうもよろしく</guid>
-      <description>おはよう、きょうもよろしく / 오하요-, 쿄-모 요로시쿠 / 좋은 아침, 오늘도 잘 부탁해</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎤 いっしょにうたってみよう (잇쇼니 우탓테미요-) · 같이 노래해 보자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-81</link>
-      <guid isPermaLink="false">jpplay:v5:9:81:いっしょにうたってみよう</guid>
-      <description>いっしょにうたってみよう / 잇쇼니 우탓테미요- / 같이 노래해 보자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>🏞️ あそこにかわがあるよ (아소코니 카와가 아루요) · 저기에 강이 있어</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-84</link>
-      <guid isPermaLink="false">jpplay:v5:9:84:あそこにかわがあるよ</guid>
-      <description>あそこにかわがあるよ / 아소코니 카와가 아루요 / 저기에 강이 있어</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧺 そとでおべんとうをたべよう (소토데 오벤토-오 타베요-) · 밖에서 도시락 먹자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-87</link>
-      <guid isPermaLink="false">jpplay:v5:9:87:そとでおべんとうをたべよう</guid>
-      <description>そとでおべんとうをたべよう / 소토데 오벤토-오 타베요- / 밖에서 도시락 먹자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥺 そんなにかなしいかおをしないで (손나니 카나시- 카오오 시나이데) · 그렇게 슬픈 얼굴 짓지 마</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-90</link>
-      <guid isPermaLink="false">jpplay:v5:9:90:そんなにかなしいかおをしないで</guid>
-      <description>そんなにかなしいかおをしないで / 손나니 카나시- 카오오 시나이데 / 그렇게 슬픈 얼굴 짓지 마</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀 いまなにしてる？ (이마 나니 시테루?) · 지금 뭐 해?</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-93</link>
-      <guid isPermaLink="false">jpplay:v5:9:93:いまなにしてる？</guid>
-      <description>いまなにしてる？ / 이마 나니 시테루? / 지금 뭐 해?</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>⏳ ちょっとまってね (촛토 맛테네) · 잠깐 기다려 줘</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-96</link>
-      <guid isPermaLink="false">jpplay:v5:9:96:ちょっとまってね</guid>
-      <description>ちょっとまってね / 촛토 맛테네 / 잠깐 기다려 줘</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧘 リラックスしてだいじょうぶ (리랏쿠스시테 다이조-부) · 긴장 풀어도 괜찮아</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-99</link>
-      <guid isPermaLink="false">jpplay:v5:9:99:リラックスしてだいじょうぶ</guid>
-      <description>リラックスしてだいじょうぶ / 리랏쿠스시테 다이조-부 / 긴장 풀어도 괜찮아</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>👓 メガネをかけてみよう (메가네오 카케테미요-) · 안경을 써 보자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-102</link>
-      <guid isPermaLink="false">jpplay:v5:9:102:メガネをかけてみよう</guid>
-      <description>メガネをかけてみよう / 메가네오 카케테미요- / 안경을 써 보자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>🥁 たいこをトントンたたこう (타이코오 톤톤 타타코-) · 북을 통통 두드리자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-105</link>
-      <guid isPermaLink="false">jpplay:v5:9:105:たいこをトントンたたこう</guid>
-      <description>たいこをトントンたたこう / 타이코오 톤톤 타타코- / 북을 통통 두드리자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>😊 きょうはなんだかうれしい (쿄-와 난다카 우레시-) · 오늘은 왠지 기뻐</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-108</link>
-      <guid isPermaLink="false">jpplay:v5:9:108:きょうはなんだかうれしい</guid>
-      <description>きょうはなんだかうれしい / 쿄-와 난다카 우레시- / 오늘은 왠지 기뻐</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎶 おんがくをきくとげんきになる (옹가쿠오 키쿠토 겡키니 나루) · 음악을 들으면 힘이 나</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-111</link>
-      <guid isPermaLink="false">jpplay:v5:9:111:おんがくをきくとげんきになる</guid>
-      <description>おんがくをきくとげんきになる / 옹가쿠오 키쿠토 겡키니 나루 / 음악을 들으면 힘이 나</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎉 やった！うまくできたよ (얏타! 우마쿠 데키타요) · 해냈다! 잘했어</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-114</link>
-      <guid isPermaLink="false">jpplay:v5:9:114:やった！うまくできたよ</guid>
-      <description>やった！うまくできたよ / 얏타! 우마쿠 데키타요 / 해냈다! 잘했어</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>🍃 はっぱのうえにしずくがある (핫파노 우에니 시즈쿠가 아루) · 잎 위에 물방울이 있어</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-117</link>
-      <guid isPermaLink="false">jpplay:v5:9:117:はっぱのうえにしずくがある</guid>
-      <description>はっぱのうえにしずくがある / 핫파노 우에니 시즈쿠가 아루 / 잎 위에 물방울이 있어</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>✨ あしたがたのしみだな (아시타가 타노시미다나) · 내일이 기대돼</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-120</link>
-      <guid isPermaLink="false">jpplay:v5:9:120:あしたがたのしみだな</guid>
-      <description>あしたがたのしみだな / 아시타가 타노시미다나 / 내일이 기대돼</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤔 どうしたの？ (도-시타노?) · 무슨 일이야?</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-123</link>
-      <guid isPermaLink="false">jpplay:v5:9:123:どうしたの？</guid>
-      <description>どうしたの？ / 도-시타노? / 무슨 일이야?</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧥 そのコート、にあっているよ (소노 코-토, 니앗테이루요) · 그 코트 잘 어울려</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-126</link>
-      <guid isPermaLink="false">jpplay:v5:9:126:そのコート、にあっているよ</guid>
-      <description>そのコート、にあっているよ / 소노 코-토, 니앗테이루요 / 그 코트 잘 어울려</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧤 てがつめたくなったね (테가 츠메타쿠 낫타네) · 손이 차가워졌네</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-129</link>
-      <guid isPermaLink="false">jpplay:v5:9:129:てがつめたくなったね</guid>
-      <description>てがつめたくなったね / 테가 츠메타쿠 낫타네 / 손이 차가워졌네</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>😲 びっくりした！ほんとう？ (빗쿠리시타! 혼토-?) · 깜짝 놀랐어! 정말?</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-132</link>
-      <guid isPermaLink="false">jpplay:v5:9:132:びっくりした！ほんとう？</guid>
-      <description>びっくりした！ほんとう？ / 빗쿠리시타! 혼토-? / 깜짝 놀랐어! 정말?</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>👀 これをみてみて (코레오 미테미테) · 이것 좀 봐</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-135</link>
-      <guid isPermaLink="false">jpplay:v5:9:135:これをみてみて</guid>
-      <description>これをみてみて / 코레오 미테미테 / 이것 좀 봐</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>☀️ おはよう、よくねむれた？ (오하요-, 요쿠 네무레타?) · 좋은 아침, 잘 잤어?</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-138</link>
-      <guid isPermaLink="false">jpplay:v5:9:138:おはよう、よくねむれた？</guid>
-      <description>おはよう、よくねむれた？ / 오하요-, 요쿠 네무레타? / 좋은 아침, 잘 잤어?</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>🔑 ポケットにかぎがあった (포켓토니 카기가 앗타) · 주머니에 열쇠가 있었어</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-141</link>
-      <guid isPermaLink="false">jpplay:v5:9:141:ポケットにかぎがあった</guid>
-      <description>ポケットにかぎがあった / 포켓토니 카기가 앗타 / 주머니에 열쇠가 있었어</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎵 このうた、しってる？ (코노 우타, 싯테루?) · 이 노래 알아?</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-144</link>
-      <guid isPermaLink="false">jpplay:v5:9:144:このうた、しってる？</guid>
-      <description>このうた、しってる？ / 코노 우타, 싯테루? / 이 노래 알아?</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:12 +0000</pubDate>
+      <guid isPermaLink="false">jpplay:v5:10:3:このパズル、むずかしいね</guid>
+      <description>このパズル、むずかしいね / 코노 파즈루, 무즈카시-네 / 이 퍼즐 어렵네</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:59 +0000</pubDate>
     </item>
     <item>
       <title>💃 ダンスをおどってみせて (단스오 오돗테 미세테) · 춤을 춰 보여 줘</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-147</link>
-      <guid isPermaLink="false">jpplay:v5:9:147:ダンスをおどってみせて</guid>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-6</link>
+      <guid isPermaLink="false">jpplay:v5:10:6:ダンスをおどってみせて</guid>
       <description>ダンスをおどってみせて / 단스오 오돗테 미세테 / 춤을 춰 보여 줘</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:11 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:16:58 +0000</pubDate>
     </item>
     <item>
-      <title>💚 しんぱいしなくていいよ (심파이 시나쿠테 이이요) · 걱정 안 해도 돼</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-150</link>
-      <guid isPermaLink="false">jpplay:v5:9:150:しんぱいしなくていいよ</guid>
-      <description>しんぱいしなくていいよ / 심파이 시나쿠테 이이요 / 걱정 안 해도 돼</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:10 +0000</pubDate>
+      <title>👴 おじいさんのおはなしをきく (오지-상노 오하나시오 키쿠) · 할아버지 이야기를 들어</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-9</link>
+      <guid isPermaLink="false">jpplay:v5:10:9:おじいさんのおはなしをきく</guid>
+      <description>おじいさんのおはなしをきく / 오지-상노 오하나시오 키쿠 / 할아버지 이야기를 들어</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:57 +0000</pubDate>
     </item>
     <item>
-      <title>👋 いってきます！きをつけてね (잇테키마스! 키오츠케테네) · 다녀올게! 조심해</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-151</link>
-      <guid isPermaLink="false">jpplay:v5:9:151:いってきます！きをつけてね</guid>
-      <description>いってきます！きをつけてね / 잇테키마스! 키오츠케테네 / 다녀올게! 조심해</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:09 +0000</pubDate>
+      <title>👍 それ、いいね！ (소레, 이이네!) · 그거 좋다!</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-12</link>
+      <guid isPermaLink="false">jpplay:v5:10:12:それ、いいね！</guid>
+      <description>それ、いいね！ / 소레, 이이네! / 그거 좋다!</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:56 +0000</pubDate>
     </item>
     <item>
-      <title>😊 どういたしまして (도-이타시마시테) · 천만에요</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-152</link>
-      <guid isPermaLink="false">jpplay:v5:9:152:どういたしまして</guid>
-      <description>どういたしまして / 도-이타시마시테 / 천만에요</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:08 +0000</pubDate>
+      <title>🎈 ふうせんがわれちゃった (후-센가 와레챳타) · 풍선이 터져 버렸어</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-15</link>
+      <guid isPermaLink="false">jpplay:v5:10:15:ふうせんがわれちゃった</guid>
+      <description>ふうせんがわれちゃった / 후-센가 와레챳타 / 풍선이 터져 버렸어</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:55 +0000</pubDate>
     </item>
     <item>
-      <title>💗 わかった、ありがとう (와캇타, 아리가토-) · 알겠어, 고마워</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-153</link>
-      <guid isPermaLink="false">jpplay:v5:9:153:わかった、ありがとう</guid>
-      <description>わかった、ありがとう / 와캇타, 아리가토- / 알겠어, 고마워</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:07 +0000</pubDate>
+      <title>👨‍🍳 おにいさんはりょうりがじょうず (오니-상와 료-리가 죠-즈) · 형은 요리를 잘해</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-18</link>
+      <guid isPermaLink="false">jpplay:v5:10:18:おにいさんはりょうりがじょうず</guid>
+      <description>おにいさんはりょうりがじょうず / 오니-상와 료-리가 죠-즈 / 형은 요리를 잘해</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>✉️ ともだちにてがみをかいた (토모다치니 테가미오 카이타) · 친구에게 편지를 썼어</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-21</link>
+      <guid isPermaLink="false">jpplay:v5:10:21:ともだちにてがみをかいた</guid>
+      <description>ともだちにてがみをかいた / 토모다치니 테가미오 카이타 / 친구에게 편지를 썼어</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>⌛ もうすぐおわるよ (모-스구 오와루요) · 곧 끝나</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-24</link>
+      <guid isPermaLink="false">jpplay:v5:10:24:もうすぐおわるよ</guid>
+      <description>もうすぐおわるよ / 모-스구 오와루요 / 곧 끝나</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏠 あした、ともだちがくるよ (아시타, 토모다치가 쿠루요) · 내일 친구가 와</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-27</link>
+      <guid isPermaLink="false">jpplay:v5:10:27:あした、ともだちがくるよ</guid>
+      <description>あした、ともだちがくるよ / 아시타, 토모다치가 쿠루요 / 내일 친구가 와</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>💗 おかあさん、おてつだいするよ (오카-상, 오테츠다이 스루요) · 엄마, 내가 도와줄게</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-30</link>
+      <guid isPermaLink="false">jpplay:v5:10:30:おかあさん、おてつだいするよ</guid>
+      <description>おかあさん、おてつだいするよ / 오카-상, 오테츠다이 스루요 / 엄마, 내가 도와줄게</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>👨 おとうさんはどこにいる？ (오토-상와 도코니 이루?) · 아빠 어디 계셔?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-33</link>
+      <guid isPermaLink="false">jpplay:v5:10:33:おとうさんはどこにいる？</guid>
+      <description>おとうさんはどこにいる？ / 오토-상와 도코니 이루? / 아빠 어디 계셔?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>👪 きょうはかぞくでおでかけ (쿄-와 카조쿠데 오데카케) · 오늘은 가족과 외출</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-36</link>
+      <guid isPermaLink="false">jpplay:v5:10:36:きょうはかぞくでおでかけ</guid>
+      <description>きょうはかぞくでおでかけ / 쿄-와 카조쿠데 오데카케 / 오늘은 가족과 외출</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 これをみてみて (코레오 미테미테) · 이것 좀 봐</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-39</link>
+      <guid isPermaLink="false">jpplay:v5:10:39:これをみてみて</guid>
+      <description>これをみてみて / 코레오 미테미테 / 이것 좀 봐</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎙️ マイクのこえがきこえる？ (마이쿠노 코에가 키코에루?) · 마이크 소리 들려?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-42</link>
+      <guid isPermaLink="false">jpplay:v5:10:42:マイクのこえがきこえる？</guid>
+      <description>マイクのこえがきこえる？ / 마이쿠노 코에가 키코에루? / 마이크 소리 들려?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤝 ちょっとてつだって (촛토 테츠닷테) · 조금 도와줘</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-45</link>
+      <guid isPermaLink="false">jpplay:v5:10:45:ちょっとてつだって</guid>
+      <description>ちょっとてつだって / 촛토 테츠닷테 / 조금 도와줘</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚶 だれといくの？ (다레토 이쿠노?) · 누구랑 가?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-48</link>
+      <guid isPermaLink="false">jpplay:v5:10:48:だれといくの？</guid>
+      <description>だれといくの？ / 다레토 이쿠노? / 누구랑 가?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>🙅 それはちがうよ (소레와 치가우요) · 그건 달라</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-51</link>
+      <guid isPermaLink="false">jpplay:v5:10:51:それはちがうよ</guid>
+      <description>それはちがうよ / 소레와 치가우요 / 그건 달라</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚽ ボールをこっちになげて (보-루오 콧치니 나게테) · 공을 이쪽으로 던져 줘</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-54</link>
+      <guid isPermaLink="false">jpplay:v5:10:54:ボールをこっちになげて</guid>
+      <description>ボールをこっちになげて / 보-루오 콧치니 나게테 / 공을 이쪽으로 던져 줘</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌙 おやすみ、またあしたね (오야스미, 마타 아시타네) · 잘 자, 내일 또 봐</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-57</link>
+      <guid isPermaLink="false">jpplay:v5:10:57:おやすみ、またあしたね</guid>
+      <description>おやすみ、またあしたね / 오야스미, 마타 아시타네 / 잘 자, 내일 또 봐</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:41 +0000</pubDate>
     </item>
     <item>
       <title>🎬 えいがはなんじから？ (에-가와 난지카라?) · 영화 몇 시부터야?</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-154</link>
-      <guid isPermaLink="false">jpplay:v5:9:154:えいがはなんじから？</guid>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-60</link>
+      <guid isPermaLink="false">jpplay:v5:10:60:えいがはなんじから？</guid>
       <description>えいがはなんじから？ / 에-가와 난지카라? / 영화 몇 시부터야?</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:06 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥶 きのうはとてもさむかった (키노-와 토테모 사무캇타) · 어제는 매우 추웠어</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-63</link>
+      <guid isPermaLink="false">jpplay:v5:10:63:きのうはとてもさむかった</guid>
+      <description>きのうはとてもさむかった / 키노-와 토테모 사무캇타 / 어제는 매우 추웠어</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>📅 いつにしようか？ (이츠니 시요-카?) · 언제로 할까?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-66</link>
+      <guid isPermaLink="false">jpplay:v5:10:66:いつにしようか？</guid>
+      <description>いつにしようか？ / 이츠니 시요-카? / 언제로 할까?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚿 あさはかおをあらおう (아사와 카오오 아라오-) · 아침에는 얼굴을 씻자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-69</link>
+      <guid isPermaLink="false">jpplay:v5:10:69:あさはかおをあらおう</guid>
+      <description>あさはかおをあらおう / 아사와 카오오 아라오- / 아침에는 얼굴을 씻자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>🫧 しゃぼんだまがとんでいった (샤본다마가 톤데잇타) · 비눗방울이 날아갔어</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-72</link>
+      <guid isPermaLink="false">jpplay:v5:10:72:しゃぼんだまがとんでいった</guid>
+      <description>しゃぼんだまがとんでいった / 샤본다마가 톤데잇타 / 비눗방울이 날아갔어</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎶 おんがくをきくとげんきになる (옹가쿠오 키쿠토 겡키니 나루) · 음악을 들으면 힘이 나</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-75</link>
+      <guid isPermaLink="false">jpplay:v5:10:75:おんがくをきくとげんきになる</guid>
+      <description>おんがくをきくとげんきになる / 옹가쿠오 키쿠토 겡키니 나루 / 음악을 들으면 힘이 나</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎼 このメロディーがすきだよ (코노 메로디-가 스키다요) · 이 멜로디가 좋아</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-78</link>
+      <guid isPermaLink="false">jpplay:v5:10:78:このメロディーがすきだよ</guid>
+      <description>このメロディーがすきだよ / 코노 메로디-가 스키다요 / 이 멜로디가 좋아</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⏰ なんじにおきたの？ (난지니 오키타노?) · 몇 시에 일어났어?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-81</link>
+      <guid isPermaLink="false">jpplay:v5:10:81:なんじにおきたの？</guid>
+      <description>なんじにおきたの？ / 난지니 오키타노? / 몇 시에 일어났어?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎤 いっしょにうたってみよう (잇쇼니 우탓테미요-) · 같이 노래해 보자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-84</link>
+      <guid isPermaLink="false">jpplay:v5:10:84:いっしょにうたってみよう</guid>
+      <description>いっしょにうたってみよう / 잇쇼니 우탓테미요- / 같이 노래해 보자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧦 くつしたはどこにある？ (쿠츠시타와 도코니 아루?) · 양말 어디 있어?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-87</link>
+      <guid isPermaLink="false">jpplay:v5:10:87:くつしたはどこにある？</guid>
+      <description>くつしたはどこにある？ / 쿠츠시타와 도코니 아루? / 양말 어디 있어?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛝 すべりだいのじゅんばんをまとう (스베리다이노 준방오 마토-) · 미끄럼틀 차례를 기다리자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-90</link>
+      <guid isPermaLink="false">jpplay:v5:10:90:すべりだいのじゅんばんをまとう</guid>
+      <description>すべりだいのじゅんばんをまとう / 스베리다이노 준방오 마토- / 미끄럼틀 차례를 기다리자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>👕 きょうはシャツをきるよ (쿄-와 샤츠오 키루요) · 오늘은 셔츠 입을 거야</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-93</link>
+      <guid isPermaLink="false">jpplay:v5:10:93:きょうはシャツをきるよ</guid>
+      <description>きょうはシャツをきるよ / 쿄-와 샤츠오 키루요 / 오늘은 셔츠 입을 거야</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌅 あしたのあさ、はやくでるよ (아시타노 아사, 하야쿠 데루요) · 내일 아침 일찍 나갈 거야</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-96</link>
+      <guid isPermaLink="false">jpplay:v5:10:96:あしたのあさ、はやくでるよ</guid>
+      <description>あしたのあさ、はやくでるよ / 아시타노 아사, 하야쿠 데루요 / 내일 아침 일찍 나갈 거야</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤔 どっちがいい？ (돗치가 이이?) · 어느 쪽이 좋아?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-99</link>
+      <guid isPermaLink="false">jpplay:v5:10:99:どっちがいい？</guid>
+      <description>どっちがいい？ / 돗치가 이이? / 어느 쪽이 좋아?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>☕ ちょっとだけやすもう (촛토다케 야스모-) · 잠깐만 쉬자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-102</link>
+      <guid isPermaLink="false">jpplay:v5:10:102:ちょっとだけやすもう</guid>
+      <description>ちょっとだけやすもう / 촛토다케 야스모- / 잠깐만 쉬자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>📷 みんなでしゃしんをとろう (민나데 샤싱오 토로-) · 다 같이 사진 찍자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-105</link>
+      <guid isPermaLink="false">jpplay:v5:10:105:みんなでしゃしんをとろう</guid>
+      <description>みんなでしゃしんをとろう / 민나데 샤싱오 토로- / 다 같이 사진 찍자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>👀 いまなにしてる？ (이마 나니 시테루?) · 지금 뭐 해?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-108</link>
+      <guid isPermaLink="false">jpplay:v5:10:108:いまなにしてる？</guid>
+      <description>いまなにしてる？ / 이마 나니 시테루? / 지금 뭐 해?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>⏳ ちょっとまってね (촛토 맛테네) · 잠깐 기다려 줘</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-111</link>
+      <guid isPermaLink="false">jpplay:v5:10:111:ちょっとまってね</guid>
+      <description>ちょっとまってね / 촛토 맛테네 / 잠깐 기다려 줘</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧸 いっしょにあそぼうよ (잇쇼니 아소보-요) · 같이 놀자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-114</link>
+      <guid isPermaLink="false">jpplay:v5:10:114:いっしょにあそぼうよ</guid>
+      <description>いっしょにあそぼうよ / 잇쇼니 아소보-요 / 같이 놀자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>🍱 そろそろひるごはんのじかん (소로소로 히루고항노 지칸) · 슬슬 점심시간이야</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-117</link>
+      <guid isPermaLink="false">jpplay:v5:10:117:そろそろひるごはんのじかん</guid>
+      <description>そろそろひるごはんのじかん / 소로소로 히루고항노 지칸 / 슬슬 점심시간이야</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>👓 メガネをかけてみよう (메가네오 카케테미요-) · 안경을 써 보자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-120</link>
+      <guid isPermaLink="false">jpplay:v5:10:120:メガネをかけてみよう</guid>
+      <description>メガネをかけてみよう / 메가네오 카케테미요- / 안경을 써 보자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>📞 おばあさんにでんわしよう (오바-상니 덴와시요-) · 할머니께 전화하자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-123</link>
+      <guid isPermaLink="false">jpplay:v5:10:123:おばあさんにでんわしよう</guid>
+      <description>おばあさんにでんわしよう / 오바-상니 덴와시요- / 할머니께 전화하자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚶 あとでいっしょにいこう (아토데 잇쇼니 이코-) · 나중에 같이 가자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-126</link>
+      <guid isPermaLink="false">jpplay:v5:10:126:あとでいっしょにいこう</guid>
+      <description>あとでいっしょにいこう / 아토데 잇쇼니 이코- / 나중에 같이 가자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>👧 いもうとといっしょにあそぶ (이모-토토 잇쇼니 아소부) · 여동생과 함께 놀아</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-129</link>
+      <guid isPermaLink="false">jpplay:v5:10:129:いもうとといっしょにあそぶ</guid>
+      <description>いもうとといっしょにあそぶ / 이모-토토 잇쇼니 아소부 / 여동생과 함께 놀아</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗓️ きょうのスケジュールをみよう (쿄-노 스케주-루오 미요-) · 오늘 일정을 보자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-132</link>
+      <guid isPermaLink="false">jpplay:v5:10:132:きょうのスケジュールをみよう</guid>
+      <description>きょうのスケジュールをみよう / 쿄-노 스케주-루오 미요- / 오늘 일정을 보자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>⭐ よるになったらほしがでた (요루니 낫타라 호시가 데타) · 밤이 되니 별이 떴어</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-135</link>
+      <guid isPermaLink="false">jpplay:v5:10:135:よるになったらほしがでた</guid>
+      <description>よるになったらほしがでた / 요루니 낫타라 호시가 데타 / 밤이 되니 별이 떴어</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎧 いちばんすきなうたはなに？ (이치방 스키나 우타와 나니?) · 가장 좋아하는 노래가 뭐야?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-138</link>
+      <guid isPermaLink="false">jpplay:v5:10:138:いちばんすきなうたはなに？</guid>
+      <description>いちばんすきなうたはなに？ / 이치방 스키나 우타와 나니? / 가장 좋아하는 노래가 뭐야?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧥 そのコート、にあっているよ (소노 코-토, 니앗테이루요) · 그 코트 잘 어울려</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-141</link>
+      <guid isPermaLink="false">jpplay:v5:10:141:そのコート、にあっているよ</guid>
+      <description>そのコート、にあっているよ / 소노 코-토, 니앗테이루요 / 그 코트 잘 어울려</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>💗 わかった、ありがとう (와캇타, 아리가토-) · 알겠어, 고마워</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-144</link>
+      <guid isPermaLink="false">jpplay:v5:10:144:わかった、ありがとう</guid>
+      <description>わかった、ありがとう / 와캇타, 아리가토- / 알겠어, 고마워</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>😊 きょうもたのしかったね (쿄-모 타노시캇타네) · 오늘도 즐거웠어</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-147</link>
+      <guid isPermaLink="false">jpplay:v5:10:147:きょうもたのしかったね</guid>
+      <description>きょうもたのしかったね / 쿄-모 타노시캇타네 / 오늘도 즐거웠어</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:11 +0000</pubDate>
     </item>
     <item>
       <title>🎈 またこんどあそぼう (마타 콘도 아소보-) · 다음에 또 놀자</title>
-      <link>https://jeryoma.github.io/jp-kana-ticker/#item-155</link>
-      <guid isPermaLink="false">jpplay:v5:9:155:またこんどあそぼう</guid>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-150</link>
+      <guid isPermaLink="false">jpplay:v5:10:150:またこんどあそぼう</guid>
       <description>またこんどあそぼう / 마타 콘도 아소보- / 다음에 또 놀자</description>
-      <pubDate>Tue, 03 Nov 2026 22:16:05 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:16:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>🥁 たいこをトントンたたこう (타이코오 톤톤 타타코-) · 북을 통통 두드리자</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-151</link>
+      <guid isPermaLink="false">jpplay:v5:10:151:たいこをトントンたたこう</guid>
+      <description>たいこをトントンたたこう / 타이코오 톤톤 타타코- / 북을 통통 두드리자</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>👄 くちをおおきくあけて (쿠치오 오-키쿠 아케테) · 입을 크게 벌려</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-152</link>
+      <guid isPermaLink="false">jpplay:v5:10:152:くちをおおきくあけて</guid>
+      <description>くちをおおきくあけて / 쿠치오 오-키쿠 아케테 / 입을 크게 벌려</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>☀️ おはよう、きょうもよろしく (오하요-, 쿄-모 요로시쿠) · 좋은 아침, 오늘도 잘 부탁해</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-153</link>
+      <guid isPermaLink="false">jpplay:v5:10:153:おはよう、きょうもよろしく</guid>
+      <description>おはよう、きょうもよろしく / 오하요-, 쿄-모 요로시쿠 / 좋은 아침, 오늘도 잘 부탁해</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎮 どのゲームであそぶ？ (도노 게-무데 아소부?) · 어떤 게임으로 놀까?</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-154</link>
+      <guid isPermaLink="false">jpplay:v5:10:154:どのゲームであそぶ？</guid>
+      <description>どのゲームであそぶ？ / 도노 게-무데 아소부? / 어떤 게임으로 놀까?</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💪 だいじょうぶ、できるよ (다이조-부, 데키루요) · 괜찮아, 할 수 있어</title>
+      <link>https://jeryoma.github.io/jp-kana-ticker/#item-155</link>
+      <guid isPermaLink="false">jpplay:v5:10:155:だいじょうぶ、できるよ</guid>
+      <description>だいじょうぶ、できるよ / 다이조-부, 데키루요 / 괜찮아, 할 수 있어</description>
+      <pubDate>Wed, 04 Nov 2026 22:16:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
